@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-06T21:08:04.1247559Z",
+    "olympusBuildFileSize": 71691222,
+    "mainFileSize": 71925385,
+    "mainDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5414/artifacts?artifactName=main&api-version=5.0&%24format=zip",
+    "author": "SnipUndercover",
+    "commit": "908a0215f2db7b59d4800550cd4ee8fbbf5011fc",
+    "description": "Various `DialogCutsceneTrigger` additions",
+    "branch": "dev",
+    "version": 6114,
+    "isNative": true,
+    "olympusMetaDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5414/artifacts?artifactName=olympus-meta&api-version=5.0&%24format=zip",
+    "olympusMetaFileSize": 269,
+    "olympusBuildDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5414/artifacts?artifactName=olympus-build&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2025-12-29T15:51:53.8409102Z",
     "olympusBuildFileSize": 71690937,
     "mainFileSize": 71925220,
