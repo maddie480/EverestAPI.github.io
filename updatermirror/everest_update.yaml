@@ -9010,14 +9010,14 @@ Bubbler:
   URL: https://gamebanana.com/mmdl/1342844
 AllRandomBerries:
   GameBananaType: Mod
-  Version: 0.2.0
-  LastUpdate: 1768431252
-  Size: 17810
+  Version: 0.2.1
+  LastUpdate: 1768525388
+  Size: 17840
   GameBananaId: 645653
-  GameBananaFileId: 1602660
+  GameBananaFileId: 1603371
   xxHash:
-  - ac770f23630f2da8
-  URL: https://gamebanana.com/mmdl/1602660
+  - 6e1f008c659d9ebd
+  URL: https://gamebanana.com/mmdl/1603371
 CrazyCycles:
   GameBananaType: Mod
   Version: 0.0.1
@@ -27780,14 +27780,14 @@ WorldMapHelper:
   URL: https://gamebanana.com/mmdl/1052127
 LocalizationHelper:
   GameBananaType: Mod
-  Version: 1.4.0
-  LastUpdate: 1768218781
-  Size: 215546
+  Version: 1.4.1
+  LastUpdate: 1768521877
+  Size: 216417
   GameBananaId: 644851
-  GameBananaFileId: 1601109
+  GameBananaFileId: 1603333
   xxHash:
-  - bdf82278347eb891
-  URL: https://gamebanana.com/mmdl/1601109
+  - 862477363add4f7e
+  URL: https://gamebanana.com/mmdl/1603333
 NewYearsContest2021:
   GameBananaType: Mod
   Version: 1.0.3
@@ -33838,6 +33838,16 @@ Royal Gardens By Night:
   xxHash:
   - b886f4a3d682d3fe
   URL: https://gamebanana.com/mmdl/1300764
+min_noahcrawfish:
+  GameBananaType: Mod
+  Version: 1.1.0
+  LastUpdate: 1768535539
+  Size: 8425613
+  GameBananaId: 529429
+  GameBananaFileId: 1603471
+  xxHash:
+  - 1819ca0678844130
+  URL: https://gamebanana.com/mmdl/1603471
 faraway:
   GameBananaType: Mod
   Version: 1.0.0
@@ -35780,14 +35790,14 @@ PlayerGhostMode:
   URL: https://gamebanana.com/mmdl/1591190
 MaxHelpingHand:
   GameBananaType: Mod
-  Version: 1.39.11
-  LastUpdate: 1768128821
-  Size: 951257
+  Version: 1.39.12
+  LastUpdate: 1768575475
+  Size: 951333
   GameBananaId: 53687
-  GameBananaFileId: 1600300
+  GameBananaFileId: 1603705
   xxHash:
-  - 690d57b2e5651ba7
-  URL: https://gamebanana.com/mmdl/1600300
+  - 1df93cf9d6de6f9a
+  URL: https://gamebanana.com/mmdl/1603705
 CSRE Frog:
   GameBananaType: Tool
   Version: 1.0.0
@@ -36490,14 +36500,14 @@ Overgrown Factory:
   URL: https://gamebanana.com/mmdl/1349262
 LegallyDistinctSecretSanta:
   GameBananaType: Mod
-  Version: 1.1.9
-  LastUpdate: 1767998951
-  Size: 24617494
+  Version: '1.2'
+  LastUpdate: 1768528873
+  Size: 24617080
   GameBananaId: 611577
-  GameBananaFileId: 1599167
+  GameBananaFileId: 1603416
   xxHash:
-  - e80c191cc9532165
-  URL: https://gamebanana.com/mmdl/1599167
+  - 92e6ea645ddf1728
+  URL: https://gamebanana.com/mmdl/1603416
 nuwutliliabdaymap:
   GameBananaType: Mod
   Version: 1.0.0.0.0.0.0
@@ -37521,13 +37531,13 @@ DeadZoneWandererANCHOR:
 Sea of Stars:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1768258637
-  Size: 5954951
+  LastUpdate: 1768599633
+  Size: 6068820
   GameBananaId: 645872
-  GameBananaFileId: 1601415
+  GameBananaFileId: 1603929
   xxHash:
-  - ba70b3f88a013c01
-  URL: https://gamebanana.com/mmdl/1601415
+  - 99cfd0ecbfc79633
+  URL: https://gamebanana.com/mmdl/1603929
 Resort Revisit:
   GameBananaType: Mod
   Version: 0.0.1
@@ -39570,14 +39580,14 @@ WaterMountain:
   URL: https://gamebanana.com/mmdl/1065778
 MotionSmoothing:
   GameBananaType: Mod
-  Version: 1.3.7
-  LastUpdate: 1768315755
-  Size: 72652
+  Version: 1.3.9
+  LastUpdate: 1768593270
+  Size: 72682
   GameBananaId: 514173
-  GameBananaFileId: 1601759
+  GameBananaFileId: 1603877
   xxHash:
-  - 412d1c88a46d2617
-  URL: https://gamebanana.com/mmdl/1601759
+  - bebb8398fca36aa3
+  URL: https://gamebanana.com/mmdl/1603877
 FCEmoji:
   GameBananaType: Mod
   Version: 1.0.0
@@ -45190,14 +45200,14 @@ Crystal Garden:
   URL: https://gamebanana.com/mmdl/1265670
 FemtoHelper:
   GameBananaType: Mod
-  Version: 1.14.22
-  LastUpdate: 1768187700
-  Size: 9115369
+  Version: 1.14.23
+  LastUpdate: 1768527490
+  Size: 9118317
   GameBananaId: 53722
-  GameBananaFileId: 1600913
+  GameBananaFileId: 1603411
   xxHash:
-  - 19917d34170dd7f3
-  URL: https://gamebanana.com/mmdl/1600913
+  - a828f62b3283bbb2
+  URL: https://gamebanana.com/mmdl/1603411
 ABY:
   GameBananaType: Mod
   Version: 0.0.1
