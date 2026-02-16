@@ -314,21 +314,6 @@
     "isNative": true
   },
   {
-    "date": "2025-12-17T23:10:46.1934927Z",
-    "olympusBuildFileSize": 71690966,
-    "mainFileSize": 71925163,
-    "mainDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5377/artifacts?artifactName=main&api-version=5.0&%24format=zip",
-    "author": "LozenChen",
-    "commit": "04aa4228786ba8448455f1962f9714c08ad28383",
-    "description": "Fix Tracker.AddTypeToTracker (#1024)",
-    "branch": "dev",
-    "version": 6077,
-    "isNative": true,
-    "olympusMetaDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5377/artifacts?artifactName=olympus-meta&api-version=5.0&%24format=zip",
-    "olympusMetaFileSize": 269,
-    "olympusBuildDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5377/artifacts?artifactName=olympus-build&api-version=5.0&%24format=zip"
-  },
-  {
     "date": "2025-12-13T19:17:40Z",
     "olympusBuildFileSize": 71794980,
     "mainFileSize": 71727998,
