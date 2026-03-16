@@ -41364,6 +41364,28 @@ ImTheHero:
   - Name: DJMapHelper
     Version: 1.13.4
   URL: https://gamebanana.com/mmdl/1501494
+a map of battery:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: FrostHelper
+    Version: 1.76.6
+  - Name: LunaticHelper
+    Version: 1.1.1
+  - Name: CrystallineHelper
+    Version: 1.17.1
+  - Name: Everest
+    Version: 1.6064.0
+  - Name: ExtendedVariantMode
+    Version: 0.47.10
+  - Name: VivHelper
+    Version: 1.14.10
+  - Name: CollabUtils2
+    Version: 1.12.4
+  - Name: Batteries
+    Version: 1.1.4
+  - Name: MaxHelpingHand
+    Version: 1.39.17
+  URL: https://gamebanana.com/mmdl/1649400
 SolarisTwoAndAHalf:
   OptionalDependencies: []
   Dependencies:
@@ -48405,7 +48427,7 @@ LuckyHelper:
   Dependencies:
   - Name: Everest
     Version: 1.6194.0
-  URL: https://gamebanana.com/mmdl/1648352
+  URL: https://gamebanana.com/mmdl/1649360
 Old Piano:
   OptionalDependencies: []
   Dependencies:
@@ -50322,6 +50344,18 @@ phi-sides:
   - Name: AdventureHelper
     Version: 1.5.4
   URL: https://gamebanana.com/mmdl/1137646
+a dreary night:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: Everest
+    Version: 1.6194.0
+  - Name: ExtendedVariantMode
+    Version: 0.48.1
+  - Name: CommunalHelper
+    Version: 1.24.5
+  - Name: MaxHelpingHand
+    Version: 1.39.18
+  URL: https://gamebanana.com/mmdl/1649136
 WhirlwindGrotto:
   OptionalDependencies: []
   Dependencies:
@@ -57625,14 +57659,6 @@ ScrappedSuperdash:
 DejaVu:
   OptionalDependencies: []
   Dependencies:
-  - Name: FrostHelper
-    Version: 1.76.6
-  - Name: GravityHelper
-    Version: 1.2.24
-  - Name: VortexHelper
-    Version: 1.2.19
-  - Name: ChroniaHelper
-    Version: 1.47.32
   - Name: Everest
     Version: 1.6170.0
   - Name: CommunalHelper
@@ -57641,7 +57667,7 @@ DejaVu:
     Version: 1.14.10
   - Name: MaxHelpingHand
     Version: 1.39.17
-  URL: https://gamebanana.com/mmdl/1647285
+  URL: https://gamebanana.com/mmdl/1649246
 KaydenFoxWatchtowerTax:
   OptionalDependencies: []
   Dependencies:
@@ -69577,7 +69603,7 @@ slnvovhh:
     Version: 1.8.3
   - Name: AdventureHelper
     Version: 1.6.0
-  URL: https://gamebanana.com/mmdl/1648407
+  URL: https://gamebanana.com/mmdl/1649343
 Five_The_Cat_OCSkin:
   OptionalDependencies: []
   Dependencies:

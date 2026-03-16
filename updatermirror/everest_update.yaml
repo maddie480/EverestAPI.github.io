@@ -18528,6 +18528,16 @@ ImTheHero:
   xxHash:
   - 3b271a0efe3e4a72
   URL: https://gamebanana.com/mmdl/1501494
+a map of battery:
+  GameBananaType: Mod
+  Version: 0.1.0
+  LastUpdate: 1773678206
+  Size: 517812
+  GameBananaId: 660746
+  GameBananaFileId: 1649400
+  xxHash:
+  - 03c6c2ab2b1c1332
+  URL: https://gamebanana.com/mmdl/1649400
 SolarisTwoAndAHalf:
   GameBananaType: Mod
   Version: 1.1.1
@@ -21560,14 +21570,14 @@ First Map:
   URL: https://gamebanana.com/mmdl/687859
 LuckyHelper:
   GameBananaType: Mod
-  Version: 0.31.1
-  LastUpdate: 1773576987
-  Size: 448001
+  Version: 0.31.2
+  LastUpdate: 1773673123
+  Size: 449172
   GameBananaId: 553921
-  GameBananaFileId: 1648352
+  GameBananaFileId: 1649360
   xxHash:
-  - 3d77238d6e5dbd23
-  URL: https://gamebanana.com/mmdl/1648352
+  - c04969a6278cf94e
+  URL: https://gamebanana.com/mmdl/1649360
 Old Piano:
   GameBananaType: Mod
   Version: 0.0.1
@@ -22548,6 +22558,16 @@ phi-sides:
   xxHash:
   - 2f8096ae24c0b1bf
   URL: https://gamebanana.com/mmdl/1137646
+a dreary night:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1773643143
+  Size: 6709
+  GameBananaId: 660631
+  GameBananaFileId: 1649136
+  xxHash:
+  - 3d01a87ce7d2fecd
+  URL: https://gamebanana.com/mmdl/1649136
 WhirlwindGrotto:
   GameBananaType: Mod
   Version: 1.0.0
@@ -26231,13 +26251,13 @@ ScrappedSuperdash:
 DejaVu:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1773494842
-  Size: 3474040
+  LastUpdate: 1773661409
+  Size: 2081460
   GameBananaId: 654203
-  GameBananaFileId: 1647285
+  GameBananaFileId: 1649246
   xxHash:
-  - 37ca593a9e163026
-  URL: https://gamebanana.com/mmdl/1647285
+  - 8fa4fdb993de7048
+  URL: https://gamebanana.com/mmdl/1649246
 KaydenFoxWatchtowerTax:
   GameBananaType: Mod
   Version: 1.0.0
@@ -32061,13 +32081,13 @@ collaborativemap:
 slnvovhh:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1773582789
-  Size: 6604555
+  LastUpdate: 1773671338
+  Size: 6603653
   GameBananaId: 660348
-  GameBananaFileId: 1648407
+  GameBananaFileId: 1649343
   xxHash:
-  - 2b6bbe97465113e3
-  URL: https://gamebanana.com/mmdl/1648407
+  - cf24466d26ca5378
+  URL: https://gamebanana.com/mmdl/1649343
 Five_The_Cat_OCSkin:
   GameBananaType: Mod
   Version: 1.0.1
