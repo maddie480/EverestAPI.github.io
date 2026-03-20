@@ -1,5 +1,5 @@
 - formatted: All
-  count: 5348
+  count: 5371
 - itemtype: Mod
   categoryid: 15655
   formatted: Assets
@@ -7,7 +7,7 @@
 - itemtype: Mod
   categoryid: 4633
   formatted: Dialog
-  count: 48
+  count: 49
 - itemtype: Mod
   categoryid: 1501
   formatted: Effects
@@ -19,7 +19,7 @@
 - itemtype: Mod
   categoryid: 6800
   formatted: Maps
-  count: 4213
+  count: 4230
 - itemtype: Mod
   categoryid: 4635
   formatted: Mechanics
@@ -27,18 +27,18 @@
 - itemtype: Mod
   categoryid: 4632
   formatted: Other/Misc
-  count: 156
+  count: 160
 - itemtype: Mod
   categoryid: 11181
   formatted: Skins
-  count: 330
+  count: 331
 - itemtype: Tool
   formatted: Tools
-  count: 67
+  count: 68
 - itemtype: Mod
   categoryid: 2317
   formatted: UI
   count: 55
 - itemtype: Wip
   formatted: WiPs
-  count: 102
+  count: 101
