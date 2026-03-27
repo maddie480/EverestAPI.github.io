@@ -1,5 +1,5 @@
 - formatted: All
-  count: 5371
+  count: 5376
 - itemtype: Mod
   categoryid: 15655
   formatted: Assets
@@ -15,11 +15,11 @@
 - itemtype: Mod
   categoryid: 5081
   formatted: Helpers
-  count: 204
+  count: 205
 - itemtype: Mod
   categoryid: 6800
   formatted: Maps
-  count: 4230
+  count: 4233
 - itemtype: Mod
   categoryid: 4635
   formatted: Mechanics
@@ -31,7 +31,7 @@
 - itemtype: Mod
   categoryid: 11181
   formatted: Skins
-  count: 331
+  count: 332
 - itemtype: Tool
   formatted: Tools
   count: 68
