@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-30T07:48:37.9778939Z",
+    "olympusBuildFileSize": 71693765,
+    "mainFileSize": 71929206,
+    "mainDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5535/artifacts?artifactName=main&api-version=5.0&%24format=zip",
+    "author": "microlith57",
+    "commit": "e8142070eae528f4e195ab33a6ad202093204675",
+    "description": "make animationSpeed decalregistry handler accept floats (#1097)",
+    "branch": "dev",
+    "version": 6235,
+    "isNative": true,
+    "olympusMetaDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5535/artifacts?artifactName=olympus-meta&api-version=5.0&%24format=zip",
+    "olympusMetaFileSize": 269,
+    "olympusBuildDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5535/artifacts?artifactName=olympus-build&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2026-03-21T20:25:06.8994462Z",
     "olympusBuildFileSize": 71694231,
     "mainFileSize": 71929207,
