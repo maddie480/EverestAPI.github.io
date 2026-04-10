@@ -8388,6 +8388,16 @@ Mirror Madness:
   xxHash:
   - c3f7defc96de566f
   URL: https://gamebanana.com/mmdl/816187
+aurybday:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1775800599
+  Size: 123988103
+  GameBananaId: 668014
+  GameBananaFileId: 1672204
+  xxHash:
+  - 1234b48dbb763011
+  URL: https://gamebanana.com/mmdl/1672204
 CardinalRule:
   GameBananaType: Mod
   Version: 0.0.1
