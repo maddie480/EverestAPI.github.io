@@ -3510,14 +3510,14 @@ Luke870_SwingingCity:
   URL: https://gamebanana.com/mmdl/1645370
 ScugHelper:
   GameBananaType: Mod
-  Version: 0.8.1
-  LastUpdate: 1775677249
-  Size: 173227
+  Version: 1.0.1
+  LastUpdate: 1775936984
+  Size: 195073
   GameBananaId: 664530
-  GameBananaFileId: 1671002
+  GameBananaFileId: 1673975
   xxHash:
-  - 2fab2f5c74f5f7ab
-  URL: https://gamebanana.com/mmdl/1671002
+  - 59c247b88216799c
+  URL: https://gamebanana.com/mmdl/1673975
 1112223312Claustrophobia:
   GameBananaType: Mod
   Version: 0.0.1
@@ -5628,6 +5628,16 @@ TheHeist:
   xxHash:
   - 31fa506e441501f9
   URL: https://gamebanana.com/mmdl/1204066
+EsotericaGym:
+  GameBananaType: Mod
+  Version: 0.0.1
+  LastUpdate: 1775846607
+  Size: 23586752
+  GameBananaId: 668337
+  GameBananaFileId: 1672683
+  xxHash:
+  - 2cdfcfa069bca94c
+  URL: https://gamebanana.com/mmdl/1672683
 TheSpinnersPlace:
   GameBananaType: Mod
   Version: 1.0.0
@@ -8390,14 +8400,14 @@ Mirror Madness:
   URL: https://gamebanana.com/mmdl/816187
 aurybday:
   GameBananaType: Mod
-  Version: 1.0.0
-  LastUpdate: 1775800599
-  Size: 123988103
+  Version: 1.0.1
+  LastUpdate: 1775900476
+  Size: 123988167
   GameBananaId: 668014
-  GameBananaFileId: 1672204
+  GameBananaFileId: 1673517
   xxHash:
-  - 1234b48dbb763011
-  URL: https://gamebanana.com/mmdl/1672204
+  - 2c560b05de81cd86
+  URL: https://gamebanana.com/mmdl/1673517
 CardinalRule:
   GameBananaType: Mod
   Version: 0.0.1
@@ -11080,14 +11090,14 @@ SimonJauntContest:
   URL: https://gamebanana.com/mmdl/1319342
 ShapeOfYourEcho:
   GameBananaType: Mod
-  Version: 1.0.0
-  LastUpdate: 1775845258
-  Size: 1019131
+  Version: 1.0.1
+  LastUpdate: 1775895070
+  Size: 1019130
   GameBananaId: 668138
-  GameBananaFileId: 1672651
+  GameBananaFileId: 1673437
   xxHash:
-  - 9eaf4e06a807afd5
-  URL: https://gamebanana.com/mmdl/1672651
+  - dd8faf2a3d1922bf
+  URL: https://gamebanana.com/mmdl/1673437
 EpilepticProphecy:
   GameBananaType: Mod
   Version: 0.0.1
@@ -15270,14 +15280,14 @@ CeleryBirthday:
   URL: https://gamebanana.com/mmdl/1656448
 BaltsMapCollection:
   GameBananaType: Mod
-  Version: 0.3.2
-  LastUpdate: 1775329541
-  Size: 30145
+  Version: 0.3.3
+  LastUpdate: 1775928914
+  Size: 30141
   GameBananaId: 664970
-  GameBananaFileId: 1667589
+  GameBananaFileId: 1673845
   xxHash:
-  - 9f3486882d6045da
-  URL: https://gamebanana.com/mmdl/1667589
+  - 555e37cd27fbd946
+  URL: https://gamebanana.com/mmdl/1673845
 BoingBumpers:
   GameBananaType: Mod
   Version: 1.1.0
@@ -18758,6 +18768,16 @@ Badlands:
   xxHash:
   - 78e21e09b2a7621d
   URL: https://gamebanana.com/mmdl/500885
+SAJICO_Mandatory_Training:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1775919516
+  Size: 7361142
+  GameBananaId: 668575
+  GameBananaFileId: 1673731
+  xxHash:
+  - 5039555179395d47
+  URL: https://gamebanana.com/mmdl/1673731
 runningoutofideas:
   GameBananaType: Mod
   Version: 0.0.1
@@ -18800,14 +18820,14 @@ BabysFirstGM:
   URL: https://gamebanana.com/mmdl/1022141
 Reckoning:
   GameBananaType: Mod
-  Version: 2.0.2
-  LastUpdate: 1756590063
-  Size: 16881721
+  Version: 2.0.3
+  LastUpdate: 1775915769
+  Size: 16885149
   GameBananaId: 540506
-  GameBananaFileId: 1508268
+  GameBananaFileId: 1673700
   xxHash:
-  - 79483add24321970
-  URL: https://gamebanana.com/mmdl/1508268
+  - 95c00f09a9b34714
+  URL: https://gamebanana.com/mmdl/1673700
 Sometimes Superdash Collab 3:
   GameBananaType: Mod
   Version: 0.0.1
@@ -20650,14 +20670,14 @@ Meorries:
   URL: https://gamebanana.com/mmdl/1578839
 DashlessJump:
   GameBananaType: Mod
-  Version: 0.9.2
-  LastUpdate: 1770138313
-  Size: 10940052
+  Version: 0.9.2.1
+  LastUpdate: 1775917318
+  Size: 12661802
   GameBananaId: 650609
-  GameBananaFileId: 1616617
+  GameBananaFileId: 1673714
   xxHash:
-  - e4c2d5ad4be6468a
-  URL: https://gamebanana.com/mmdl/1616617
+  - 930e3a13c4d4b945
+  URL: https://gamebanana.com/mmdl/1673714
 OneRoom:
   GameBananaType: Mod
   Version: 0.0.1
@@ -25778,6 +25798,16 @@ TASHelper:
   xxHash:
   - 09276a2a64f6e968
   URL: https://gamebanana.com/mmdl/1577665
+Mad Incompetence:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1775909656
+  Size: 7779539
+  GameBananaId: 668548
+  GameBananaFileId: 1673659
+  xxHash:
+  - a143a48e038910f2
+  URL: https://gamebanana.com/mmdl/1673659
 Notepad2:
   GameBananaType: Mod
   Version: 0.0.1
@@ -26588,6 +26618,16 @@ Crossing Blades:
   xxHash:
   - a0dc209ac9a684d0
   URL: https://gamebanana.com/mmdl/1440554
+ColorfulThySirSlime:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1775876102
+  Size: 789969949
+  GameBananaId: 668341
+  GameBananaFileId: 1673221
+  xxHash:
+  - 7486886f3650820a
+  URL: https://gamebanana.com/mmdl/1673221
 the stupid jelly fish level:
   GameBananaType: Mod
   Version: 0.0.1
@@ -27630,14 +27670,14 @@ WtfWhyIsThereALeafOnMyDesktop:
   URL: https://gamebanana.com/mmdl/1638852
 Soul's Relic:
   GameBananaType: Mod
-  Version: 0.3.6
-  LastUpdate: 1775247958
-  Size: 80774043
+  Version: 0.3.7
+  LastUpdate: 1775889548
+  Size: 80773165
   GameBananaId: 643891
-  GameBananaFileId: 1666793
+  GameBananaFileId: 1673360
   xxHash:
-  - a7062823dc862830
-  URL: https://gamebanana.com/mmdl/1666793
+  - 88a2e1fed1030b18
+  URL: https://gamebanana.com/mmdl/1673360
 Satellite:
   GameBananaType: Mod
   Version: 0.0.1
@@ -28388,16 +28428,6 @@ AnnonMap:
   xxHash:
   - 158791d92e0fc1aa
   URL: https://gamebanana.com/mmdl/1245396
-fishe:
-  GameBananaType: Mod
-  Version: 0.0.1
-  LastUpdate: 1767753337
-  Size: 29777236
-  GameBananaId: 584862
-  GameBananaFileId: 1597263
-  xxHash:
-  - f8128d4322d1ae22
-  URL: https://gamebanana.com/mmdl/1597263
 JessFirstMap:
   GameBananaType: Mod
   Version: 0.0.1
@@ -28510,14 +28540,14 @@ forlorn:
   URL: https://gamebanana.com/mmdl/1398012
 ChroniaHelper:
   GameBananaType: Mod
-  Version: 1.49.3
-  LastUpdate: 1774719445
-  Size: 3828776
+  Version: 1.49.12
+  LastUpdate: 1775908787
+  Size: 3841639
   GameBananaId: 507580
-  GameBananaFileId: 1660566
+  GameBananaFileId: 1673649
   xxHash:
-  - 45d3fbbda0db0abf
-  URL: https://gamebanana.com/mmdl/1660566
+  - f67c6ea772d26f35
+  URL: https://gamebanana.com/mmdl/1673649
 ridge:
   GameBananaType: Mod
   Version: 1.0.5
@@ -40000,14 +40030,14 @@ ASCBR25:
   URL: https://gamebanana.com/mmdl/1597830
 KyfexHelper:
   GameBananaType: Mod
-  Version: 0.14.0
-  LastUpdate: 1767139065
-  Size: 193151
+  Version: 0.1.0
+  LastUpdate: 1775938511
+  Size: 198369
   GameBananaId: 581132
-  GameBananaFileId: 1591917
+  GameBananaFileId: 1674001
   xxHash:
-  - 0ce0beeb8fdc0445
-  URL: https://gamebanana.com/mmdl/1591917
+  - b280471b2b56da34
+  URL: https://gamebanana.com/mmdl/1674001
 Mikoline's Extend Hat Pack:
   GameBananaType: Mod
   Version: '1.0'
@@ -41690,14 +41720,14 @@ industrialis:
   URL: https://gamebanana.com/mmdl/1410893
 vanillassat:
   GameBananaType: Mod
-  Version: 0.0.1
-  LastUpdate: 1763269500
-  Size: 79720
+  Version: 1.1.1
+  LastUpdate: 1775911936
+  Size: 140339
   GameBananaId: 633970
-  GameBananaFileId: 1562115
+  GameBananaFileId: 1673668
   xxHash:
-  - 611ab38bce4220db
-  URL: https://gamebanana.com/mmdl/1562115
+  - a49058c84854d805
+  URL: https://gamebanana.com/mmdl/1673668
 Celeste But Stupid:
   GameBananaType: Mod
   Version: 3.0.0
@@ -43438,6 +43468,16 @@ GlitchedTextureFallback:
   xxHash:
   - af44b352438825e9
   URL: https://gamebanana.com/mmdl/1360420
+Lamplit:
+  GameBananaType: Mod
+  Version: 0.0.1
+  LastUpdate: 1775929549
+  Size: 12654001
+  GameBananaId: 668623
+  GameBananaFileId: 1673860
+  xxHash:
+  - 6a97587f1fe0807c
+  URL: https://gamebanana.com/mmdl/1673860
 FancyTileEntities:
   GameBananaType: Mod
   Version: 1.6.2
@@ -45791,13 +45831,13 @@ PersistenceHelper:
 DreamTower:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1775160658
-  Size: 3542447
+  LastUpdate: 1775907816
+  Size: 3546530
   GameBananaId: 647204
-  GameBananaFileId: 1665861
+  GameBananaFileId: 1673640
   xxHash:
-  - d7a5ccb5d2337955
-  URL: https://gamebanana.com/mmdl/1665861
+  - 9a9943cb20b3694a
+  URL: https://gamebanana.com/mmdl/1673640
 1-map:
   GameBananaType: Mod
   Version: 1.4.0.0
@@ -53238,6 +53278,16 @@ Silver Ridge:
   xxHash:
   - 410a5c173187bdac
   URL: https://gamebanana.com/mmdl/857108
+absentdreams:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1775940443
+  Size: 96477215
+  GameBananaId: 668690
+  GameBananaFileId: 1674040
+  xxHash:
+  - 55d5a5922862b9c9
+  URL: https://gamebanana.com/mmdl/1674040
 DadCollab2018:
   GameBananaType: Mod
   Version: 1.0.2
