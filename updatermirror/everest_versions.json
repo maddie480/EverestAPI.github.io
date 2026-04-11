@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-04-12T14:16:29.0490277Z",
+    "olympusBuildFileSize": 71693969,
+    "mainFileSize": 71928311,
+    "mainDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5562/artifacts?artifactName=main&api-version=5.0&%24format=zip",
+    "author": "maddie480",
+    "commit": "dcc400b1724b4762ca92b50e8d274f66ddeafa0c",
+    "description": "Revert \"Merge pull request #999 from SnipUndercover/dialog-cutscene-changes\"",
+    "branch": "dev",
+    "version": 6262,
+    "isNative": true,
+    "olympusMetaDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5562/artifacts?artifactName=olympus-meta&api-version=5.0&%24format=zip",
+    "olympusMetaFileSize": 269,
+    "olympusBuildDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5562/artifacts?artifactName=olympus-build&api-version=5.0&%24format=zip"
+  },
+  {
+    "date": "2026-04-12T12:20:04.0040155Z",
+    "olympusBuildFileSize": 71694036,
+    "mainFileSize": 71928483,
+    "mainDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5561/artifacts?artifactName=main&api-version=5.0&%24format=zip",
+    "author": "maddie480",
+    "commit": "3ead00fde66699da94eee8dbf570b035a616e950",
+    "description": "Revert \"Merge pull request #1079 from DashingCat/fast-fmod-bank-loading\"",
+    "branch": "dev",
+    "version": 6261,
+    "isNative": true,
+    "olympusMetaDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5561/artifacts?artifactName=olympus-meta&api-version=5.0&%24format=zip",
+    "olympusMetaFileSize": 269,
+    "olympusBuildDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5561/artifacts?artifactName=olympus-build&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2026-04-05T15:50:14.0266222Z",
     "olympusBuildFileSize": 71693672,
     "mainFileSize": 71929228,
