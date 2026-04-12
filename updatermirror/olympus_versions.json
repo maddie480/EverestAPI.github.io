@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-04-17T20:57:04.853691Z",
+    "changelog": "∙ Added a (!) icon on the cog button leading to the \"Install Everest\" screen when updates are available",
+    "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5570/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
+    "branch": "main",
+    "version": "26.04.17.01",
+    "macosDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5570/artifacts?artifactName=macos.main&api-version=5.0&%24format=zip",
+    "linuxDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5570/artifacts?artifactName=linux.main&api-version=5.0&%24format=zip"
+  },
+  {
+    "date": "2026-04-16T09:43:32.3839521Z",
+    "changelog": "∙ Updated the OlympUI dependency to latest version",
+    "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5566/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
+    "branch": "main",
+    "version": "26.04.16.02",
+    "macosDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5566/artifacts?artifactName=macos.main&api-version=5.0&%24format=zip",
+    "linuxDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5566/artifacts?artifactName=linux.main&api-version=5.0&%24format=zip"
+  },
+  {
+    "date": "2026-04-16T09:37:26.3620012Z",
+    "changelog": "∙ Block installation of mods with everest.yaml names that are invalid file names",
+    "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5565/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
+    "branch": "main",
+    "version": "26.04.16.01",
+    "macosDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5565/artifacts?artifactName=macos.main&api-version=5.0&%24format=zip",
+    "linuxDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5565/artifacts?artifactName=linux.main&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2026-03-21T19:36:02.2025946Z",
     "changelog": "∙ Make sure the Download button is greyed out when appropriate in the \"Download Mods\" section when the API mirror is enabled\n∙ Fixed the \"edit modpresets.txt\" button when on Linux, or when language is set to French",
     "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5526/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",

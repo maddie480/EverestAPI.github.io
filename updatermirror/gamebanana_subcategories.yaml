@@ -1,10 +1,10 @@
 Mod:
   6800:
   - name: All
-    count: 4294
+    count: 4305
   - id: 6802
     name: Campaign
-    count: 479
+    count: 480
   - id: 6803
     name: Collab/Contest
     count: 374
@@ -13,16 +13,16 @@ Mod:
     count: 25
   - id: 6801
     name: Standalone
-    count: 2678
+    count: 2688
   15655:
   - name: All
-    count: 117
+    count: 119
   - id: 15656
     name: Audio
     count: 53
   - id: 15657
     name: Graphics
-    count: 52
+    count: 54
   4632:
   - name: All
     count: 162
@@ -37,7 +37,7 @@ Mod:
     count: 20
   5081:
   - name: All
-    count: 208
+    count: 210
   4635:
   - name: All
     count: 42
@@ -46,7 +46,7 @@ Mod:
     count: 15
   11181:
   - name: All
-    count: 334
+    count: 335
   - id: 16940
     name: Collectibles
     count: 37
@@ -81,10 +81,10 @@ Tool:
 Wip:
   0:
   - name: All
-    count: 100
+    count: 99
   - id: 680
     name: Maps
-    count: 74
+    count: 73
   - id: 466
     name: Other/Misc
     count: 26
