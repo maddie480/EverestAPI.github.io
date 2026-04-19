@@ -1,7 +1,7 @@
 Mod:
   6800:
   - name: All
-    count: 4305
+    count: 4310
   - id: 6802
     name: Campaign
     count: 480
@@ -10,10 +10,10 @@ Mod:
     count: 374
   - id: 15667
     name: Multiplayer
-    count: 25
+    count: 26
   - id: 6801
     name: Standalone
-    count: 2688
+    count: 2692
   15655:
   - name: All
     count: 119
@@ -46,7 +46,7 @@ Mod:
     count: 15
   11181:
   - name: All
-    count: 335
+    count: 334
   - id: 16940
     name: Collectibles
     count: 37
@@ -55,7 +55,7 @@ Mod:
     count: 73
   - id: 11183
     name: Player
-    count: 176
+    count: 175
   2317:
   - name: All
     count: 55
