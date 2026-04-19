@@ -8190,10 +8190,12 @@ ScugHelper:
   OptionalDependencies:
   - Name: FrostHelper
     Version: 1.78.0
+  - Name: ExtendedVariantMode
+    Version: 0.48.2
   Dependencies:
   - Name: EverestCore
     Version: 1.5935.0
-  URL: https://gamebanana.com/mmdl/1680485
+  URL: https://gamebanana.com/mmdl/1683194
 1112223312Claustrophobia:
   OptionalDependencies: []
   Dependencies:
@@ -19441,7 +19443,7 @@ ChromeHearts:
     Version: 0.12.2
   - Name: DJMapHelper
     Version: 1.13.4
-  URL: https://gamebanana.com/mmdl/1640925
+  URL: https://gamebanana.com/mmdl/1681403
 Reversemod:
   OptionalDependencies: []
   Dependencies:
@@ -21731,7 +21733,7 @@ madhunt78gh'smaps:
     Version: 1.6249.0
   - Name: Madhunt
     Version: 2.4.5
-  URL: https://gamebanana.com/mmdl/1680899
+  URL: https://gamebanana.com/mmdl/1681806
 TheFoxesHunt:
   OptionalDependencies: []
   Dependencies:
@@ -28466,12 +28468,6 @@ demnisho:
   - Name: AdventureHelper
     Version: 1.6.0
   URL: https://gamebanana.com/mmdl/1448177
-project_moon:
-  OptionalDependencies: []
-  Dependencies:
-  - Name: Everest
-    Version: 1.6249.0
-  URL: https://gamebanana.com/mmdl/1679415
 Hallway:
   OptionalDependencies: []
   Dependencies:
@@ -30068,6 +30064,14 @@ BeginnerCollab:
   - Name: DJMapHelper
     Version: 1.13.2
   URL: https://gamebanana.com/mmdl/1377031
+Dashless+rando:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: Randomizer
+    Version: 0.8.4
+  - Name: Dashless+
+    Version: 1.1.7
+  URL: https://gamebanana.com/mmdl/1681054
 egg:
   OptionalDependencies: []
   Dependencies:
@@ -51129,7 +51133,9 @@ ANGELICIDE:
     Version: 1.14.25
   - Name: SorbetHelper
     Version: 1.8.3
-  URL: https://gamebanana.com/mmdl/1677086
+  - Name: VidPlayer
+    Version: 0.5.2
+  URL: https://gamebanana.com/mmdl/1681281
 Balls Climb:
   OptionalDependencies: []
   Dependencies:
@@ -61047,7 +61053,7 @@ viddiesToolbox:
   Dependencies:
   - Name: Everest
     Version: 1.3164.0
-  URL: https://gamebanana.com/mmdl/1566403
+  URL: https://gamebanana.com/mmdl/1682076
 Dashful+:
   OptionalDependencies: []
   Dependencies:
@@ -63247,7 +63253,7 @@ ChroniaHelper:
   Dependencies:
   - Name: Everest
     Version: 1.6194.0
-  URL: https://gamebanana.com/mmdl/1680566
+  URL: https://gamebanana.com/mmdl/1681043
 ridge:
   OptionalDependencies: []
   Dependencies:
@@ -66168,6 +66174,24 @@ Forsaken Dash:
   - Name: CollabUtils2
     Version: 1.10.14
   URL: https://gamebanana.com/mmdl/1344321
+MyFirstMod:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: BrokemiaHelper
+    Version: 1.8.5
+  - Name: GravityHelper
+    Version: 1.2.24
+  - Name: Everest
+    Version: 1.6249.0
+  - Name: SorbetHelper
+    Version: 1.8.3
+  - Name: AltSidesHelper
+    Version: 1.7.1
+  - Name: MaxHelpingHand
+    Version: 1.39.19
+  - Name: AdventureHelper
+    Version: 1.6.0
+  URL: https://gamebanana.com/mmdl/1682081
 fore(1):
   OptionalDependencies: []
   Dependencies:
@@ -72375,7 +72399,7 @@ HiddenKeyCounter:
   Dependencies:
   - Name: Everest
     Version: 1.3282.0
-  URL: https://gamebanana.com/mmdl/1680589
+  URL: https://gamebanana.com/mmdl/1681753
 Parrot Paradise:
   OptionalDependencies: []
   Dependencies:
@@ -92659,7 +92683,7 @@ MotionSmoothing:
     Version: 1.0.4
   - Name: EverestCore
     Version: 1.4673.0
-  URL: https://gamebanana.com/mmdl/1679847
+  URL: https://gamebanana.com/mmdl/1682618
 FCEmoji:
   OptionalDependencies: []
   Dependencies:
@@ -93617,15 +93641,13 @@ TechnologicalAdvancements:
     Version: 1.6.3
   - Name: CrystallineHelper
     Version: 1.17.1
-  - Name: Everest
-    Version: 1.6249.0
   - Name: CherryHelper
     Version: 1.8.2
   - Name: CommunalHelper
     Version: 1.24.5
   - Name: MaxHelpingHand
     Version: 1.39.18
-  URL: https://gamebanana.com/mmdl/1680879
+  URL: https://gamebanana.com/mmdl/1681800
 ShadowRoNY2025Map:
   OptionalDependencies: []
   Dependencies:
@@ -95281,7 +95303,7 @@ BadwayOpus10:
     Version: 1.39.18
   - Name: IsaGrabBag
     Version: 1.7.3
-  URL: https://gamebanana.com/mmdl/1679510
+  URL: https://gamebanana.com/mmdl/1681643
 LeviathansRushPlus:
   OptionalDependencies: []
   Dependencies:

@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-04-20T18:49:23.4651381Z",
+    "changelog": "∙ Added a big button above the Everest versions list to install or update to the latest version of the current branch",
+    "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5578/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
+    "branch": "main",
+    "version": "26.04.20.02",
+    "macosDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5578/artifacts?artifactName=macos.main&api-version=5.0&%24format=zip",
+    "linuxDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5578/artifacts?artifactName=linux.main&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2026-04-17T20:57:04.853691Z",
     "changelog": "∙ Added a (!) icon on the cog button leading to the \"Install Everest\" screen when updates are available",
     "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5570/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
