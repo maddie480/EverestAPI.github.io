@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-04-22T22:03:44.5792228Z",
+    "changelog": "∙ Added a notice to clarify that the \"Updates\" section in Options & Updates is only about Olympus",
+    "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5580/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
+    "branch": "main",
+    "version": "26.04.22.01",
+    "macosDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5580/artifacts?artifactName=macos.main&api-version=5.0&%24format=zip",
+    "linuxDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5580/artifacts?artifactName=linux.main&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2026-04-20T18:49:23.4651381Z",
     "changelog": "∙ Added a big button above the Everest versions list to install or update to the latest version of the current branch",
     "windowsDownload": "https://dev.azure.com/EverestAPI/Olympus/_apis/build/builds/5578/artifacts?artifactName=windows.main&api-version=5.0&%24format=zip",
