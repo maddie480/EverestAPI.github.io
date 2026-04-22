@@ -3530,14 +3530,14 @@ Luke870_SwingingCity:
   URL: https://gamebanana.com/mmdl/1645370
 ScugHelper:
   GameBananaType: Mod
-  Version: 2.4.1
-  LastUpdate: 1776869678
-  Size: 272021
+  Version: 2.5.0
+  LastUpdate: 1776874838
+  Size: 272526
   GameBananaId: 664530
-  GameBananaFileId: 1683194
+  GameBananaFileId: 1683225
   xxHash:
-  - cebcdb037d513533
-  URL: https://gamebanana.com/mmdl/1683194
+  - 51dd92903b96074e
+  URL: https://gamebanana.com/mmdl/1683225
 1112223312Claustrophobia:
   GameBananaType: Mod
   Version: 0.0.1
@@ -15740,14 +15740,14 @@ DashlessDark:
   URL: https://gamebanana.com/mmdl/1126682
 ClickerGoldens:
   GameBananaType: Mod
-  Version: 1.1.0
-  LastUpdate: 1773496656
-  Size: 691851
+  Version: 1.1.1
+  LastUpdate: 1776879185
+  Size: 691850
   GameBananaId: 653001
-  GameBananaFileId: 1647306
+  GameBananaFileId: 1683270
   xxHash:
-  - fadd61c178a801e9
-  URL: https://gamebanana.com/mmdl/1647306
+  - baf6d23d24359c3f
+  URL: https://gamebanana.com/mmdl/1683270
 gb9x:
   GameBananaType: Mod
   Version: 1.0.4

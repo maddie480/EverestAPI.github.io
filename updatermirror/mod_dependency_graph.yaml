@@ -8195,7 +8195,7 @@ ScugHelper:
   Dependencies:
   - Name: EverestCore
     Version: 1.5935.0
-  URL: https://gamebanana.com/mmdl/1683194
+  URL: https://gamebanana.com/mmdl/1683225
 1112223312Claustrophobia:
   OptionalDependencies: []
   Dependencies:
@@ -35353,7 +35353,7 @@ ClickerGoldens:
   Dependencies:
   - Name: Everest
     Version: 1.3014.0
-  URL: https://gamebanana.com/mmdl/1647306
+  URL: https://gamebanana.com/mmdl/1683270
 gb9x:
   OptionalDependencies: []
   Dependencies:
