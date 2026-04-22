@@ -20820,6 +20820,26 @@ Eye of the storm:
   - Name: MaxHelpingHand
     Version: 1.28.3
   URL: https://gamebanana.com/mmdl/1218974
+Evil:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: CrystallineHelper
+    Version: 1.17.1
+  - Name: Everest
+    Version: 1.5635.0
+  - Name: ExtendedVariantMode
+    Version: 0.48.1
+  - Name: CommunalHelper
+    Version: 1.24.5
+  - Name: VivHelper
+    Version: 1.14.10
+  - Name: SorbetHelper
+    Version: 1.8.3
+  - Name: XaphanHelper
+    Version: 1.0.78
+  - Name: MaxHelpingHand
+    Version: 1.39.18
+  URL: https://gamebanana.com/mmdl/1684690
 Old_Site_three:
   OptionalDependencies: []
   Dependencies:
@@ -44383,19 +44403,11 @@ dacklash:
     Version: 1.13.4
   URL: https://gamebanana.com/mmdl/1324759
 SorbetHelper:
-  OptionalDependencies:
-  - Name: GravityHelper
-    Version: 1.2.0
-  - Name: ExtendedVariantMode
-    Version: 0.38.0
-  - Name: CommunalHelper
-    Version: 1.24.1
-  - Name: ChronoHelper
-    Version: 1.2.2
+  OptionalDependencies: []
   Dependencies:
   - Name: EverestCore
-    Version: 1.5935.0
-  URL: https://gamebanana.com/mmdl/1586098
+    Version: 1.6242.0
+  URL: https://gamebanana.com/mmdl/1684409
 GimmickContestMap:
   OptionalDependencies: []
   Dependencies:
@@ -60778,6 +60790,12 @@ saltrthday:
   - Name: PandorasBox
     Version: 1.0.49
   URL: https://gamebanana.com/mmdl/1547134
+stupidtechmap:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: Everest
+    Version: 1.6157.0
+  URL: https://gamebanana.com/mmdl/1683934
 Celeste B.5 Sides:
   OptionalDependencies: []
   Dependencies:
@@ -61053,7 +61071,7 @@ viddiesToolbox:
   Dependencies:
   - Name: Everest
     Version: 1.3164.0
-  URL: https://gamebanana.com/mmdl/1682076
+  URL: https://gamebanana.com/mmdl/1684427
 Dashful+:
   OptionalDependencies: []
   Dependencies:
@@ -63253,7 +63271,7 @@ ChroniaHelper:
   Dependencies:
   - Name: Everest
     Version: 1.6194.0
-  URL: https://gamebanana.com/mmdl/1681043
+  URL: https://gamebanana.com/mmdl/1684639
 ridge:
   OptionalDependencies: []
   Dependencies:
@@ -72356,6 +72374,12 @@ FrostHelper:
   - Name: EverestCore
     Version: 1.5986.0
   URL: https://gamebanana.com/mmdl/1668469
+Scrap:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: Everest
+    Version: 1.6194.0
+  URL: https://gamebanana.com/mmdl/1684209
 DarkDungeon:
   OptionalDependencies: []
   Dependencies:
@@ -78301,7 +78325,7 @@ Artiboom:
     Version: 1.0.1
   - Name: EverestCore
     Version: 1.4673.0
-  URL: https://gamebanana.com/mmdl/1662812
+  URL: https://gamebanana.com/mmdl/1683968
 screenblockspaceMod:
   OptionalDependencies: []
   Dependencies:
@@ -92683,7 +92707,7 @@ MotionSmoothing:
     Version: 1.0.4
   - Name: EverestCore
     Version: 1.4673.0
-  URL: https://gamebanana.com/mmdl/1682618
+  URL: https://gamebanana.com/mmdl/1684002
 FCEmoji:
   OptionalDependencies: []
   Dependencies:
@@ -99237,31 +99261,39 @@ BlockmathQSides:
 LimboS:
   OptionalDependencies: []
   Dependencies:
-  - Name: FlaglinesAndSuch
-    Version: 1.6.50
-  - Name: FrostHelper
-    Version: 1.74.0
-  - Name: BrokemiaHelper
-    Version: 1.8.5
-  - Name: CrystallineHelper
-    Version: 1.16.6
   - Name: Everest
     Version: 1.5421.0
   - Name: ExtendedVariantMode
     Version: 0.47.2
   - Name: Rug Helper
     Version: 0.2.3.3
-  - Name: CommunalHelper
-    Version: 1.24.4
   - Name: VivHelper
     Version: 1.14.10
   - Name: ContortHelper
     Version: 1.5.5
   - Name: MaxHelpingHand
     Version: 1.38.0
+  - Name: LuaCutscenes
+    Version: 0.2.13
+  - Name: FlaglinesAndSuch
+    Version: 1.6.50
+  - Name: FrostHelper
+    Version: 1.74.0
+  - Name: CrystallineHelper
+    Version: 1.16.6
+  - Name: CommunalHelper
+    Version: 1.24.4
+  - Name: auspicioushelper
+    Version: 0.3.15
+  - Name: ProgHelper
+    Version: 1.5.2
+  - Name: KoseiHelper
+    Version: 1.19.1.0
+  - Name: DJMapHelper
+    Version: 1.13.4
   - Name: PandorasBox
     Version: 1.0.49
-  URL: https://gamebanana.com/mmdl/1625310
+  URL: https://gamebanana.com/mmdl/1683971
 Funny Dialog:
   OptionalDependencies: []
   Dependencies:
@@ -102255,7 +102287,7 @@ Killbind:
   Dependencies:
   - Name: EverestCore
     Version: 1.4673.0
-  URL: https://gamebanana.com/mmdl/1249337
+  URL: https://gamebanana.com/mmdl/1683686
 oknano-mwc:
   OptionalDependencies: []
   Dependencies:
@@ -106857,7 +106889,7 @@ Pico8MapLoaderEditor:
   Dependencies:
   - Name: Everest
     Version: 1.3282.0
-  URL: https://gamebanana.com/mmdl/1556523
+  URL: https://gamebanana.com/mmdl/1684115
 KelperNailMiniCollab:
   OptionalDependencies: []
   Dependencies:

@@ -1,5 +1,5 @@
 - formatted: All
-  count: 5465
+  count: 5467
 - itemtype: Mod
   categoryid: 15655
   formatted: Assets
@@ -19,7 +19,7 @@
 - itemtype: Mod
   categoryid: 6800
   formatted: Maps
-  count: 4311
+  count: 4314
 - itemtype: Mod
   categoryid: 4635
   formatted: Mechanics
@@ -41,4 +41,4 @@
   count: 55
 - itemtype: Wip
   formatted: WiPs
-  count: 99
+  count: 98
