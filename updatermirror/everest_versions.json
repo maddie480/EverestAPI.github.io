@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-28T21:21:54.0466095Z",
+    "olympusBuildFileSize": 71693546,
+    "mainFileSize": 71929008,
+    "mainDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5582/artifacts?artifactName=main&api-version=5.0&%24format=zip",
+    "author": "maddie480",
+    "commit": "1b9d110780406d406af8d7e7446247ce858c63e0",
+    "description": "Update French translation",
+    "branch": "dev",
+    "version": 6282,
+    "isNative": true,
+    "olympusMetaDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5582/artifacts?artifactName=olympus-meta&api-version=5.0&%24format=zip",
+    "olympusMetaFileSize": 269,
+    "olympusBuildDownload": "https://dev.azure.com/EverestAPI/Everest/_apis/build/builds/5582/artifacts?artifactName=olympus-build&api-version=5.0&%24format=zip"
+  },
+  {
     "date": "2026-04-19T12:48:51.3165506Z",
     "olympusBuildFileSize": 71694315,
     "mainFileSize": 71928881,

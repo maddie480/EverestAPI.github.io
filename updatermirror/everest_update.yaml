@@ -1940,14 +1940,14 @@ AbaddonCity:
   URL: https://gamebanana.com/mmdl/1383686
 AxiomeToolbox:
   GameBananaType: Mod
-  Version: 0.4.1
-  LastUpdate: 1774471039
-  Size: 31755
+  Version: 0.5.0
+  LastUpdate: 1777483128
+  Size: 55660
   GameBananaId: 649552
-  GameBananaFileId: 1657843
+  GameBananaFileId: 1688697
   xxHash:
-  - 6a532566f9661c0d
-  URL: https://gamebanana.com/mmdl/1657843
+  - c36c872955060bb8
+  URL: https://gamebanana.com/mmdl/1688697
 binary:
   GameBananaType: Mod
   Version: 1.0.0
@@ -3530,14 +3530,14 @@ Luke870_SwingingCity:
   URL: https://gamebanana.com/mmdl/1645370
 ScugHelper:
   GameBananaType: Mod
-  Version: 2.6.0
-  LastUpdate: 1777252913
-  Size: 274106
+  Version: 2.7.2
+  LastUpdate: 1777576172
+  Size: 433837
   GameBananaId: 664530
-  GameBananaFileId: 1686857
+  GameBananaFileId: 1689547
   xxHash:
-  - 6262453b903b6f0a
-  URL: https://gamebanana.com/mmdl/1686857
+  - 06fc5101957c7522
+  URL: https://gamebanana.com/mmdl/1689547
 1112223312Claustrophobia:
   GameBananaType: Mod
   Version: 0.0.1
@@ -4928,6 +4928,16 @@ HildaMod:
   xxHash:
   - 4315d9ed5543435a
   URL: https://gamebanana.com/mmdl/483040
+SenselessPoRoMoL+:
+  GameBananaType: Mod
+  Version: 1.0.2
+  LastUpdate: 1777511853
+  Size: 3972639
+  GameBananaId: 572286
+  GameBananaFileId: 1689011
+  xxHash:
+  - 729be54343984d81
+  URL: https://gamebanana.com/mmdl/1689011
 TheThicketANCHOR:
   GameBananaType: Mod
   Version: 1.0.0
@@ -5580,14 +5590,14 @@ Boosterblind:
   URL: https://gamebanana.com/mmdl/536081
 UDAllHelper:
   GameBananaType: Mod
-  Version: 1.65.0
-  LastUpdate: 1777268537
-  Size: 2211
+  Version: 1.67.0
+  LastUpdate: 1777469387
+  Size: 2227
   GameBananaId: 437806
-  GameBananaFileId: 1686950
+  GameBananaFileId: 1688568
   xxHash:
-  - 1f5bb49f1adb2d53
-  URL: https://gamebanana.com/mmdl/1686950
+  - e4c745cab5edd74c
+  URL: https://gamebanana.com/mmdl/1688568
 ParrotDashSkin_legacy:
   GameBananaType: Mod
   Version: 0.6.9
@@ -7748,6 +7758,16 @@ Sib:
   xxHash:
   - 59178f65e9742a6f
   URL: https://gamebanana.com/mmdl/462383
+ripplesound:
+  GameBananaType: Mod
+  Version: 4.4.4
+  LastUpdate: 1777393746
+  Size: 4056330
+  GameBananaId: 672232
+  GameBananaFileId: 1687922
+  xxHash:
+  - ecb9192823ca3b82
+  URL: https://gamebanana.com/mmdl/1687922
 Bunnysides:
   GameBananaType: Mod
   Version: 1.1.2
@@ -8171,13 +8191,13 @@ Other Side of the Moon:
 Puggyplayz-AFTERLIFE:
   GameBananaType: Mod
   Version: 1.0.0
-  LastUpdate: 1771374440
-  Size: 17831895
+  LastUpdate: 1777507915
+  Size: 17425927
   GameBananaId: 653812
-  GameBananaFileId: 1628213
+  GameBananaFileId: 1688946
   xxHash:
-  - 90011243dda00e0c
-  URL: https://gamebanana.com/mmdl/1628213
+  - 471be1e3ae31efed
+  URL: https://gamebanana.com/mmdl/1688946
 SecretSanta2022Audio:
   GameBananaType: Mod
   Version: 1.0.1
@@ -8298,16 +8318,6 @@ CrossoverSimplifiedChinese:
   xxHash:
   - ddcdf22258401dc1
   URL: https://gamebanana.com/mmdl/1655614
-SenselessPoRoMoL:
-  GameBananaType: Mod
-  Version: 1.0.1
-  LastUpdate: 1741238627
-  Size: 47722866
-  GameBananaId: 572286
-  GameBananaFileId: 1394501
-  xxHash:
-  - 90c69ee134bffada
-  URL: https://gamebanana.com/mmdl/1394501
 MapleCampCont:
   GameBananaType: Mod
   Version: 0.0.1
@@ -9240,14 +9250,14 @@ Zipping:
   URL: https://gamebanana.com/mmdl/737411
 LacuneGrand:
   GameBananaType: Mod
-  Version: 1.0.11
-  LastUpdate: 1777258095
-  Size: 92844683
+  Version: 1.0.13
+  LastUpdate: 1777331291
+  Size: 92845224
   GameBananaId: 668728
-  GameBananaFileId: 1686889
+  GameBananaFileId: 1687446
   xxHash:
-  - a119b12e3e678f04
-  URL: https://gamebanana.com/mmdl/1686889
+  - 4cd87c2bf762b48c
+  URL: https://gamebanana.com/mmdl/1687446
 The Magic River:
   GameBananaType: Wip
   Version: 1.0.0
@@ -9558,6 +9568,16 @@ Magmanagement:
   xxHash:
   - 5acdb68b0bc0333d
   URL: https://gamebanana.com/mmdl/1231009
+WarlockHelper:
+  GameBananaType: Mod
+  Version: 0.1.0
+  LastUpdate: 1777205225
+  Size: 97882
+  GameBananaId: 672514
+  GameBananaFileId: 1686222
+  xxHash:
+  - eb08e02f3a872bde
+  URL: https://gamebanana.com/mmdl/1686222
 Amber Terminus:
   GameBananaType: Mod
   Version: 1.0.3
@@ -9700,14 +9720,14 @@ LargeMaze:
   URL: https://gamebanana.com/mmdl/1310337
 madhunt78gh'smaps:
   GameBananaType: Mod
-  Version: 0.0.2
-  LastUpdate: 1776705362
-  Size: 57576
+  Version: 0.0.4
+  LastUpdate: 1777557747
+  Size: 83519
   GameBananaId: 670860
-  GameBananaFileId: 1681806
+  GameBananaFileId: 1689363
   xxHash:
-  - 6e74a8c89976ace8
-  URL: https://gamebanana.com/mmdl/1681806
+  - d535358521e91ff0
+  URL: https://gamebanana.com/mmdl/1689363
 TheFoxesHunt:
   GameBananaType: Wip
   Version: 0.0.1
@@ -10958,6 +10978,16 @@ certainlyyet:
   xxHash:
   - eb0c546bd48dba19
   URL: https://gamebanana.com/mmdl/1424019
+2.5D Helper:
+  GameBananaType: Mod
+  Version: 0.1.0
+  LastUpdate: 1777437211
+  Size: 54613
+  GameBananaId: 673173
+  GameBananaFileId: 1688369
+  xxHash:
+  - e0d49e17f9e943a8
+  URL: https://gamebanana.com/mmdl/1688369
 ZiplineZip:
   GameBananaType: Mod
   Version: 1.0.0
@@ -12421,13 +12451,13 @@ Celeste_on_the_Moon:
 gorg1:
   GameBananaType: Mod
   Version: 1.0.0
-  LastUpdate: 1776567886
-  Size: 2433498
+  LastUpdate: 1777593929
+  Size: 2458807
   GameBananaId: 670710
-  GameBananaFileId: 1680413
+  GameBananaFileId: 1689721
   xxHash:
-  - 033e585c482b66e1
-  URL: https://gamebanana.com/mmdl/1680413
+  - df8076dcacf2693f
+  URL: https://gamebanana.com/mmdl/1689721
 100Bumpers:
   GameBananaType: Mod
   Version: 0.2.0
@@ -12650,14 +12680,14 @@ yetanother_grid_ussr:
   URL: https://gamebanana.com/mmdl/1075395
 OzmasOddities:
   GameBananaType: Mod
-  Version: 0.6.4
-  LastUpdate: 1773911698
-  Size: 37273
+  Version: 0.6.5
+  LastUpdate: 1777338053
+  Size: 38122
   GameBananaId: 620042
-  GameBananaFileId: 1651717
+  GameBananaFileId: 1687506
   xxHash:
-  - 6b46d77e7743c8f4
-  URL: https://gamebanana.com/mmdl/1651717
+  - 5af1ef19670f1fb2
+  URL: https://gamebanana.com/mmdl/1687506
 hexmodv2:
   GameBananaType: Mod
   Version: 0.0.1
@@ -14770,14 +14800,14 @@ tofu:
   URL: https://gamebanana.com/mmdl/1577023
 UDCollectiveHelper:
   GameBananaType: Mod
-  Version: 1.22.0
-  LastUpdate: 1777268542
-  Size: 2047
+  Version: 1.24.0
+  LastUpdate: 1777469392
+  Size: 2064
   GameBananaId: 437806
-  GameBananaFileId: 1686951
+  GameBananaFileId: 1688569
   xxHash:
-  - 983f43ab4093cae2
-  URL: https://gamebanana.com/mmdl/1686951
+  - 03eee178ad304344
+  URL: https://gamebanana.com/mmdl/1688569
 Three Sisters Peaks (WiP):
   GameBananaType: Wip
   Version: 0.1.0
@@ -15410,14 +15440,14 @@ CeleryBirthday:
   URL: https://gamebanana.com/mmdl/1656448
 BaltsMapCollection:
   GameBananaType: Mod
-  Version: 0.3.4
-  LastUpdate: 1776478451
-  Size: 925
+  Version: 0.3.5
+  LastUpdate: 1777305840
+  Size: 30144
   GameBananaId: 664970
-  GameBananaFileId: 1679407
+  GameBananaFileId: 1687202
   xxHash:
-  - 4a6b61243da72097
-  URL: https://gamebanana.com/mmdl/1679407
+  - 3f279fba040db636
+  URL: https://gamebanana.com/mmdl/1687202
 BoingBumpers:
   GameBananaType: Mod
   Version: 1.1.0
@@ -15878,6 +15908,16 @@ D1A7:
   xxHash:
   - bc3f35e97ee37667
   URL: https://gamebanana.com/mmdl/1337642
+AtoneCelesteRemake:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1598745816
+  Size: 5519818
+  GameBananaId: 150470
+  GameBananaFileId: 483202
+  xxHash:
+  - 43ca19a3b03919da
+  URL: https://gamebanana.com/mmdl/483202
 DreamLock:
   GameBananaType: Mod
   Version: 0.0.1
@@ -17378,6 +17418,16 @@ Unnamed:
   xxHash:
   - be16c3bcb2e43825
   URL: https://gamebanana.com/mmdl/1468361
+sumshit:
+  GameBananaType: Mod
+  Version: 0.0.1
+  LastUpdate: 1777425636
+  Size: 5839487
+  GameBananaId: 673139
+  GameBananaFileId: 1688274
+  xxHash:
+  - 17b169b352fd2fec
+  URL: https://gamebanana.com/mmdl/1688274
 SkyHigh:
   GameBananaType: Mod
   Version: 1.0.0
@@ -18518,6 +18568,16 @@ SpringCollabAutumnAudio:
   xxHash:
   - 6778fc5db93b72ab
   URL: https://gamebanana.com/mmdl/1603216
+tiramisu:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1777344034
+  Size: 2772898
+  GameBananaId: 672943
+  GameBananaFileId: 1687557
+  xxHash:
+  - 5992a1903c89ce65
+  URL: https://gamebanana.com/mmdl/1687557
 VoidBaby:
   GameBananaType: Mod
   Version: 0.0.1
@@ -22971,13 +23031,13 @@ EvaHelper:
 Ponkus:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1775692895
-  Size: 6271235
+  LastUpdate: 1777317365
+  Size: 6271373
   GameBananaId: 667682
-  GameBananaFileId: 1671159
+  GameBananaFileId: 1687324
   xxHash:
-  - efaa86c7b9af1f86
-  URL: https://gamebanana.com/mmdl/1671159
+  - 6d60e5d2c1b72791
+  URL: https://gamebanana.com/mmdl/1687324
 intasity:
   GameBananaType: Mod
   Version: 1.1.0
@@ -24700,14 +24760,14 @@ Spooooky's Asset Pack:
   URL: https://gamebanana.com/mmdl/1459173
 TheoRoomsAdvanced:
   GameBananaType: Mod
-  Version: 1.0.3
-  LastUpdate: 1777279419
-  Size: 21893918
+  Version: 1.0.4
+  LastUpdate: 1777306421
+  Size: 21895325
   GameBananaId: 672260
-  GameBananaFileId: 1687026
+  GameBananaFileId: 1687210
   xxHash:
-  - 4b070c7e011a3536
-  URL: https://gamebanana.com/mmdl/1687026
+  - 3869de482da47948
+  URL: https://gamebanana.com/mmdl/1687210
 alion8me_clocks:
   GameBananaType: Mod
   Version: 1.0.0
@@ -26720,14 +26780,14 @@ Altered Apparition:
   URL: https://gamebanana.com/mmdl/1265111
 SenselessZescentAssets:
   GameBananaType: Mod
-  Version: 2.5.0
-  LastUpdate: 1775570524
-  Size: 100329463
+  Version: 2.5.2
+  LastUpdate: 1777597357
+  Size: 100359473
   GameBananaId: 476540
-  GameBananaFileId: 1670002
+  GameBananaFileId: 1689764
   xxHash:
-  - 5b150f103e43ef4d
-  URL: https://gamebanana.com/mmdl/1670002
+  - 7c62e49fe07faf48
+  URL: https://gamebanana.com/mmdl/1689764
 Berry Train Extender:
   GameBananaType: Mod
   Version: 0.2.3
@@ -27270,14 +27330,14 @@ Crazy Temple:
   URL: https://gamebanana.com/mmdl/1030241
 MintChocolateHelper:
   GameBananaType: Mod
-  Version: 0.3.3
-  LastUpdate: 1774557287
-  Size: 355539
+  Version: 0.3.4
+  LastUpdate: 1777456851
+  Size: 357237
   GameBananaId: 654612
-  GameBananaFileId: 1658775
+  GameBananaFileId: 1688475
   xxHash:
-  - 319346abe3ec3286
-  URL: https://gamebanana.com/mmdl/1658775
+  - 600476c37f7d616c
+  URL: https://gamebanana.com/mmdl/1688475
 DamnBird:
   GameBananaType: Mod
   Version: 1.0.0
@@ -27871,13 +27931,13 @@ mature grape:
 TheKinginDeepBlue:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1766698246
-  Size: 70471406
+  LastUpdate: 1777609971
+  Size: 74222615
   GameBananaId: 640708
-  GameBananaFileId: 1588073
+  GameBananaFileId: 1689904
   xxHash:
-  - a899b6dee788e3ef
-  URL: https://gamebanana.com/mmdl/1588073
+  - 68f65c68b13cc4c1
+  URL: https://gamebanana.com/mmdl/1689904
 PaintReverse:
   GameBananaType: Mod
   Version: 1.0.2
@@ -27900,14 +27960,14 @@ WtfWhyIsThereALeafOnMyDesktop:
   URL: https://gamebanana.com/mmdl/1638852
 Soul's Relic:
   GameBananaType: Mod
-  Version: 0.3.7
-  LastUpdate: 1775889548
-  Size: 80773165
+  Version: 0.5.0
+  LastUpdate: 1777497923
+  Size: 80774340
   GameBananaId: 643891
-  GameBananaFileId: 1673360
+  GameBananaFileId: 1688846
   xxHash:
-  - 88a2e1fed1030b18
-  URL: https://gamebanana.com/mmdl/1673360
+  - 36734f1ab9aeb6f3
+  URL: https://gamebanana.com/mmdl/1688846
 Satellite:
   GameBananaType: Mod
   Version: 0.0.1
@@ -27938,6 +27998,16 @@ AnalogViewer:
   xxHash:
   - d13fba05ec7a4963
   URL: https://gamebanana.com/mmdl/798163
+Switch Temple:
+  GameBananaType: Mod
+  Version: 0.0.1
+  LastUpdate: 1777315098
+  Size: 10610873
+  GameBananaId: 627596
+  GameBananaFileId: 1687305
+  xxHash:
+  - 0c056651d5e31c19
+  URL: https://gamebanana.com/mmdl/1687305
 NotAnotherTrollMap:
   GameBananaType: Mod
   Version: 1.0.0
@@ -29380,14 +29450,14 @@ DreamBlockContest2021:
   URL: https://gamebanana.com/mmdl/578435
 FlaglinesAndSuch:
   GameBananaType: Mod
-  Version: 1.6.65
-  LastUpdate: 1772056095
-  Size: 698576
+  Version: 1.6.67
+  LastUpdate: 1777400269
+  Size: 700638
   GameBananaId: 53762
-  GameBananaFileId: 1634534
+  GameBananaFileId: 1687992
   xxHash:
-  - 13cd0ef0866ef012
-  URL: https://gamebanana.com/mmdl/1634534
+  - 7087a0c6fccac446
+  URL: https://gamebanana.com/mmdl/1687992
 Petrichor V:
   GameBananaType: Mod
   Version: 1.0.0
@@ -30390,14 +30460,14 @@ PufferCrystal:
   URL: https://gamebanana.com/mmdl/1349710
 auspicioushelper:
   GameBananaType: Mod
-  Version: 0.4.0
-  LastUpdate: 1775775575
-  Size: 2367520
+  Version: 0.4.1
+  LastUpdate: 1777610334
+  Size: 2383648
   GameBananaId: 578559
-  GameBananaFileId: 1671982
+  GameBananaFileId: 1689910
   xxHash:
-  - d82dacece6f8442c
-  URL: https://gamebanana.com/mmdl/1671982
+  - 8051fc15e8aad193
+  URL: https://gamebanana.com/mmdl/1689910
 DeepDream:
   GameBananaType: Mod
   Version: 1.0.0
@@ -30468,6 +30538,16 @@ Bioluminescence:
   xxHash:
   - 646c1b41781a810a
   URL: https://gamebanana.com/mmdl/1450102
+NebulaMiscEntities:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1777420127
+  Size: 41066
+  GameBananaId: 673118
+  GameBananaFileId: 1688224
+  xxHash:
+  - 2a48f735d2901b53
+  URL: https://gamebanana.com/mmdl/1688224
 ShatteringStrawberries:
   GameBananaType: Mod
   Version: 2.0.0
@@ -31458,6 +31538,16 @@ Chameleon:
   xxHash:
   - 0ae6c07c1183f7ce
   URL: https://gamebanana.com/mmdl/1664043
+Spring City Summit:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1777611723
+  Size: 3358548
+  GameBananaId: 673704
+  GameBananaFileId: 1689929
+  xxHash:
+  - 97cd929d3bc2ad59
+  URL: https://gamebanana.com/mmdl/1689929
 SilentStars:
   GameBananaType: Mod
   Version: 0.1.0
@@ -32220,14 +32310,14 @@ CelesteTAS:
   URL: https://gamebanana.com/mmdl/1586832
 Tricky Holdable Escapade Obstacles:
   GameBananaType: Mod
-  Version: 1.0.0
-  LastUpdate: 1777277899
-  Size: 6966698
+  Version: 1.0.1
+  LastUpdate: 1777397858
+  Size: 6966841
   GameBananaId: 668097
-  GameBananaFileId: 1687015
+  GameBananaFileId: 1687974
   xxHash:
-  - aa8d7b9ef155a4cd
-  URL: https://gamebanana.com/mmdl/1687015
+  - e8f965dae4f6f8eb
+  URL: https://gamebanana.com/mmdl/1687974
 Reinhardt Birthday Collab 2022:
   GameBananaType: Mod
   Version: 1.0.4
@@ -35990,14 +36080,14 @@ SecretSanta2024AudioBank1:
   URL: https://gamebanana.com/mmdl/1255119
 ComfyClimb:
   GameBananaType: Mod
-  Version: 1.0.2
-  LastUpdate: 1776571373
-  Size: 7208632
+  Version: 1.0.3
+  LastUpdate: 1777635521
+  Size: 7208594
   GameBananaId: 670415
-  GameBananaFileId: 1680454
+  GameBananaFileId: 1690135
   xxHash:
-  - 8f766cef0a4fc2ed
-  URL: https://gamebanana.com/mmdl/1680454
+  - 14b933dcd1970c80
+  URL: https://gamebanana.com/mmdl/1690135
 SecretSanta2024AudioBank2:
   GameBananaType: Mod
   Version: 1.0.0
@@ -36448,16 +36538,6 @@ Mineclimber:
   xxHash:
   - c32e9b4d62b7b3ee
   URL: https://gamebanana.com/mmdl/1532104
-Neuro Twins:
-  GameBananaType: Mod
-  Version: 1.0.0
-  LastUpdate: 1741148794
-  Size: 91412756
-  GameBananaId: 578955
-  GameBananaFileId: 1393832
-  xxHash:
-  - 9165ab80e5ba18fa
-  URL: https://gamebanana.com/mmdl/1393832
 LouisMaps:
   GameBananaType: Mod
   Version: 1.0.0
@@ -37971,13 +38051,13 @@ GreyScale's Deathless Berry Resprites:
 arbitraryshape:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1770438388
-  Size: 5850
+  LastUpdate: 1777536139
+  Size: 5918
   GameBananaId: 651152
-  GameBananaFileId: 1619126
+  GameBananaFileId: 1689196
   xxHash:
-  - 9db0b92a24c4483a
-  URL: https://gamebanana.com/mmdl/1619126
+  - 06755ed6037ed449
+  URL: https://gamebanana.com/mmdl/1689196
 Sakura Hills:
   GameBananaType: Mod
   Version: 1.0.1
@@ -42648,6 +42728,16 @@ FrostDepths:
   xxHash:
   - ef6c3970652176eb
   URL: https://gamebanana.com/mmdl/1668999
+CompfP4:
+  GameBananaType: Mod
+  Version: 0.0.1
+  LastUpdate: 1777590679
+  Size: 163286
+  GameBananaId: 673617
+  GameBananaFileId: 1689697
+  xxHash:
+  - c7a964c228b9cb4f
+  URL: https://gamebanana.com/mmdl/1689697
 JPC2024:
   GameBananaType: Mod
   Version: 1.1.0
@@ -43568,6 +43658,16 @@ Cheerleader:
   xxHash:
   - 9090b34d97d3e50e
   URL: https://gamebanana.com/mmdl/1178835
+BadwayOpus14:
+  GameBananaType: Mod
+  Version: 1.0.1
+  LastUpdate: 1777601298
+  Size: 7767656
+  GameBananaId: 673411
+  GameBananaFileId: 1689828
+  xxHash:
+  - 17e6f276d1dfc4cf
+  URL: https://gamebanana.com/mmdl/1689828
 Into The Jungle:
   GameBananaType: Mod
   Version: 1.2.41
@@ -43578,6 +43678,16 @@ Into The Jungle:
   xxHash:
   - f2ebbc601121965e
   URL: https://gamebanana.com/mmdl/1220355
+BadwayOpus15:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1777517828
+  Size: 6509131
+  GameBananaId: 673415
+  GameBananaFileId: 1689077
+  xxHash:
+  - 4a2b5a7657e3e1db
+  URL: https://gamebanana.com/mmdl/1689077
 NanosHecksides:
   GameBananaType: Mod
   Version: 1.2.02
@@ -45461,13 +45571,13 @@ BlockmathQSides:
 LimboS:
   GameBananaType: Mod
   Version: 0.0.1
-  LastUpdate: 1776964061
-  Size: 7752771
+  LastUpdate: 1777502443
+  Size: 7759057
   GameBananaId: 632731
-  GameBananaFileId: 1683971
+  GameBananaFileId: 1688888
   xxHash:
-  - d65378b20e268a1f
-  URL: https://gamebanana.com/mmdl/1683971
+  - 26bfe9f71a5d1c36
+  URL: https://gamebanana.com/mmdl/1688888
 Funny Dialog:
   GameBananaType: Mod
   Version: '1.5'
@@ -45868,16 +45978,6 @@ Maple's Training Gym:
   xxHash:
   - 5f87ce4c7b1a1d88
   URL: https://gamebanana.com/mmdl/1445336
-CLANTISNEVERGOLDEN:
-  GameBananaType: Mod
-  Version: '1.45'
-  LastUpdate: 1667662827
-  Size: 3753126
-  GameBananaId: 410445
-  GameBananaFileId: 887205
-  xxHash:
-  - fff5739ff4ab930c
-  URL: https://gamebanana.com/mmdl/887205
 bubbletest:
   GameBananaType: Mod
   Version: 0.0.0
@@ -47220,14 +47320,14 @@ Flare:
   URL: https://gamebanana.com/mmdl/1196960
 MiaoNet:
   GameBananaType: Mod
-  Version: 0.4.1-alpha2
-  LastUpdate: 1776577059
-  Size: 786276
+  Version: 0.4.1-alpha3
+  LastUpdate: 1777391244
+  Size: 809645
   GameBananaId: 397461
-  GameBananaFileId: 1680508
+  GameBananaFileId: 1687895
   xxHash:
-  - 1e8cf011f9e05128
-  URL: https://gamebanana.com/mmdl/1680508
+  - a2ab12e824901743
+  URL: https://gamebanana.com/mmdl/1687895
 SteamySprings:
   GameBananaType: Mod
   Version: 0.0.1
@@ -47528,6 +47628,16 @@ EvilCeleste:
   xxHash:
   - b147f49c04e986af
   URL: https://gamebanana.com/mmdl/1608012
+PedroCrispyMTC:
+  GameBananaType: Mod
+  Version: 1.0.0
+  LastUpdate: 1777330809
+  Size: 3395282
+  GameBananaId: 672910
+  GameBananaFileId: 1687442
+  xxHash:
+  - 8f8ed9bb05f38d6b
+  URL: https://gamebanana.com/mmdl/1687442
 2024_BooreokjamCollab:
   GameBananaType: Mod
   Version: 1.0.0
@@ -48500,14 +48610,14 @@ Crystal Garden:
   URL: https://gamebanana.com/mmdl/1265670
 FemtoHelper:
   GameBananaType: Mod
-  Version: 1.15.12
-  LastUpdate: 1775857512
-  Size: 10320938
+  Version: 1.15.13
+  LastUpdate: 1777340308
+  Size: 10319224
   GameBananaId: 53722
-  GameBananaFileId: 1672865
+  GameBananaFileId: 1687526
   xxHash:
-  - 8affbf1d0efc42f6
-  URL: https://gamebanana.com/mmdl/1672865
+  - db9a6fcc292c613d
+  URL: https://gamebanana.com/mmdl/1687526
 ABY:
   GameBananaType: Mod
   Version: 0.0.1
@@ -52531,13 +52641,13 @@ Leisure Time:
 MTPikmin4:
   GameBananaType: Mod
   Version: 1.0.0
-  LastUpdate: 1777100769
-  Size: 783183
+  LastUpdate: 1777428130
+  Size: 795460
   GameBananaId: 672166
-  GameBananaFileId: 1685178
+  GameBananaFileId: 1688306
   xxHash:
-  - 6eeae234acd15d6b
-  URL: https://gamebanana.com/mmdl/1685178
+  - 37e27c7efa65160c
+  URL: https://gamebanana.com/mmdl/1688306
 Climb on the walls:
   GameBananaType: Mod
   Version: 1.0.0
@@ -53640,14 +53750,14 @@ Silver Ridge:
   URL: https://gamebanana.com/mmdl/857108
 absentdreams:
   GameBananaType: Mod
-  Version: 1.0.0
-  LastUpdate: 1775952799
-  Size: 96477213
+  Version: 1.0.2
+  LastUpdate: 1777400771
+  Size: 96474835
   GameBananaId: 668690
-  GameBananaFileId: 1674184
+  GameBananaFileId: 1687999
   xxHash:
-  - ecb344e1a994ef89
-  URL: https://gamebanana.com/mmdl/1674184
+  - 12611d657b00dfe2
+  URL: https://gamebanana.com/mmdl/1687999
 DadCollab2018:
   GameBananaType: Mod
   Version: 1.0.2
@@ -54418,6 +54528,16 @@ DashlessHelper:
   xxHash:
   - d793fb08b53bc14f
   URL: https://gamebanana.com/mmdl/867310
+DawnHelper:
+  GameBananaType: Mod
+  Version: 1.0.1
+  LastUpdate: 1777609932
+  Size: 184051
+  GameBananaId: 673091
+  GameBananaFileId: 1689903
+  xxHash:
+  - 34d5ce0e8d3e311c
+  URL: https://gamebanana.com/mmdl/1689903
 Recursion:
   GameBananaType: Mod
   Version: 0.0.2
