@@ -2,232 +2,328 @@
   {
     "CategoryId": 6800,
     "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/69ef1a9e801ca.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ef1aa1ecbaa.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ef1aa4b9051.jpg"
+      "https://images.gamebanana.com/img/ss/mods/69f77068c8545.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f771773ddd4.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f7778707d37.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f777874c5be.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f787e989c06.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f777872c21f.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f7778556be9.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f77786ea0af.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f77786ca420.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f7778633ad0.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f7778680674.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f778f256cdd.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f7782daace7.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f7778759b57.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f77908d4873.jpg"
     ],
-    "Description": "THEO",
-    "Views": 51,
+    "Description": "big things recently",
+    "Views": 577,
     "GameBananaType": "Mod",
     "TokenizedName": [
-      "tricky",
-      "holdable",
-      "escapade",
-      "obstacles"
+      "negative",
+      "time",
+      "mini",
+      "collab"
     ],
-    "UpdatedDate": 1777278595,
-    "GameBananaId": 668097,
+    "UpdatedDate": 1777844275,
+    "SubcategoryId": 6803,
+    "SubcategoryName": "Collab/Contest",
+    "GameBananaId": 674444,
     "Featured": {
-      "Category": "today",
+      "Category": "week",
       "Position": 0
     },
-    "Text": "Hello! If you feel like buffer-based maps are getting too similar, try out this map! Guess what: it has the infamous Theo Crystal!<br><br>This map features commonly used tech, like cobwobs, gultras, dashbounces and other, but also introduces new (not well known) tech utilizing theo crystal. If you feel like not understanding how they work, feel free to dm or ping me in discord! (@marsflame)<br><br>Estimated difficulty of rooms:<br>Rooms 1, 2, 3 - red gm to g+1;<br>Ashes to Ashes - probably g+2, no idea honestly.<br><br>Have fun!",
-    "ModifiedDate": 1777291500,
-    "Name": "Tricky Holdable Escapade Obstacles",
-    "PageURL": "https://gamebanana.com/mods/668097",
+    "Text": "This mini collab was created in order to showcase the potential of NEGATIVE TIME, which was (LIKELY ACCIDENTALLY) coded by VITELLARY. It features FIFTEEN completely unique, fun, and whacky maps ranging from BEGINNER to EVIL. The mappers are:<br><br>- Banana 23<br>- BevWeb<br>- bunnerfly<br>- butcherberries<br>- emeowvie<br>- eulersnumber<br>- grog<br>- Mowo<br>- nasc<br>- RenPinefur<br>- tart<br>- tobyaaa<br>- WORDWOLF<br>- Yoshachobi7<br><br>The lobby was made                     and the lobby         was made<br><br>We hope you enjoy these maps! We had a ton of fun making them, and we hope this can inspire some really cool NEGATIVE TIME maps in the future! There is a lot of untouched potential for crazy things. HUGE thanks to VITELLARY for making this awesome helper.<br><br>Link to CRYSTALLINEHelper: https://gamebanana.com/mods/53760<br><br>If you find any bugs            help  ,<br><br>",
+    "ModifiedDate": 1777844176,
+    "Name": "Negative Time Mini Collab",
+    "PageURL": "https://gamebanana.com/mods/674444",
     "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ef1a9e801ca.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ef1aa1ecbaa.png"
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69f77068c8545.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69f771773ddd4.png"
     ],
-    "CreatedDate": 1777278595,
-    "Author": "MarsFlame31",
+    "CreatedDate": 1777830948,
+    "Author": "nasc",
     "CategoryName": "Maps",
-    "Downloads": 9,
-    "Likes": 3,
+    "Downloads": 200,
+    "Likes": 13,
+    "Files": [
+      {
+        "Description": "1.0.1",
+        "HasEverestYaml": true,
+        "Size": 90274221,
+        "CreatedDate": 1777844135,
+        "Downloads": 162,
+        "URL": "https://gamebanana.com/dl/1692495",
+        "Name": "ntmc101.zip"
+      },
+      {
+        "Description": "ARCHIVED - 1.0.0",
+        "HasEverestYaml": true,
+        "Size": 90244426,
+        "CreatedDate": 1777830416,
+        "Downloads": 38,
+        "URL": "https://gamebanana.com/dl/1692296",
+        "Name": "ntmc100.zip"
+      }
+    ]
+  },
+  {
+    "CategoryId": 6800,
+    "Screenshots": [
+      "https://images.gamebanana.com/img/ss/mods/69f75f136dce6.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69f75f2404ae9.jpg"
+    ],
+    "Description": "Fly, fly high like a free soul in heaven",
+    "Views": 286,
+    "GameBananaType": "Mod",
+    "TokenizedName": [
+      "i",
+      "do",
+      "remember"
+    ],
+    "UpdatedDate": 1777819582,
+    "SubcategoryId": 6801,
+    "SubcategoryName": "Standalone",
+    "GameBananaId": 674382,
+    "Featured": {
+      "Category": "week",
+      "Position": 1
+    },
+    "Text": "Difficulty: Ch1 red adv, Ch2 red exp<br>Length: short.<br>Special gameplay: 1 extra air jump and dash (CH2)<br><hr>It feels silly to hide my works that someone really like. I reuploaded this mod to show respect, maybe. Whatever it might be, when I enter the level and be immersed in it, I see myself in the past.<br>Fly, fly high like a free soul in heaven.<br>Thank you for playing. Have a good time!",
+    "ModifiedDate": 1777819582,
+    "Name": "I Do Remember",
+    "PageURL": "https://gamebanana.com/mods/674382",
+    "MirroredScreenshots": [
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69f75f136dce6.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69f75f2404ae9.png"
+    ],
+    "CreatedDate": 1777819582,
+    "Author": "rifs",
+    "CategoryName": "Maps",
+    "Downloads": 49,
+    "Likes": 11,
     "Files": [{
-      "Description": "1.0.0",
+      "Description": "",
       "HasEverestYaml": true,
-      "Size": 6966698,
-      "CreatedDate": 1777277899,
-      "Downloads": 7,
-      "URL": "https://gamebanana.com/dl/1687015",
-      "Name": "theo_f519f.zip"
+      "Size": 9952038,
+      "CreatedDate": 1777819549,
+      "Downloads": 49,
+      "URL": "https://gamebanana.com/dl/1692119",
+      "Name": "i_do_remember_005ca_95220.zip"
     }]
   },
   {
     "CategoryId": 6800,
     "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/69ebf6136d0a3.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf63680b39.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf6369011a.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf6368f0c1.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf6368d6a6.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf6369c216.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf636a3099.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf636a2bf4.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ebf636927f2.jpg"
-    ],
-    "Description": "comfy speed gameplay",
-    "Views": 435,
-    "GameBananaType": "Mod",
-    "TokenizedName": [
-      "the",
-      "tide",
-      "is",
-      "still",
-      "here"
-    ],
-    "UpdatedDate": 1777087998,
-    "SubcategoryId": 6801,
-    "SubcategoryName": "Standalone",
-    "GameBananaId": 672092,
-    "Featured": {
-      "Category": "week",
-      "Position": 0
-    },
-    "Text": "A new emeowvie speed map!!!! finally!!!!    This is probably my best gameplay and traditional deco, across any genre I've mapped... I'm super proud of how it came out, and I had so much fun making it <3 <br><br>10 rooms long, randing from green gm to red gm ( I hope). It should be easier than mauve if you are looking for a speed map to play that has similar gameplay to mauve but is on the easier side!! <3<br><br>This map is also a music translation of a track by Crispybag! The two of us decided to do a little music/map swap and MTC eachothers tracks, Crispy made Jaga, and this one is mine!!<br><br>I hope you all enjoy!! have fun!!! love u all!!! byeeeeeeee",
-    "ModifiedDate": 1777087852,
-    "Name": "the tide is still here",
-    "PageURL": "https://gamebanana.com/mods/672092",
-    "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ebf6136d0a3.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ebf63680b39.png"
-    ],
-    "CreatedDate": 1777072067,
-    "Author": "emeowvie",
-    "CategoryName": "Maps",
-    "Downloads": 123,
-    "Likes": 10,
-    "Files": [
-      {
-        "Description": "1.0.1 - current version",
-        "HasEverestYaml": true,
-        "Size": 9003045,
-        "CreatedDate": 1777087808,
-        "Downloads": 98,
-        "URL": "https://gamebanana.com/dl/1685086",
-        "Name": "ttish.zip"
-      },
-      {
-        "Description": "1.0.0",
-        "HasEverestYaml": true,
-        "Size": 9003534,
-        "CreatedDate": 1777071711,
-        "Downloads": 25,
-        "URL": "https://gamebanana.com/dl/1684953",
-        "Name": "thetideisstillhere.zip"
-      }
-    ]
-  },
-  {
-    "CategoryId": 6800,
-    "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/69ed42f2d29a1.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ed4249a2b37.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ed424f348f7.jpg"
+      "https://images.gamebanana.com/img/ss/mods/69fdc55ae5978.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69fdc56318728.jpg"
     ],
     "Description": "",
-    "Views": 136,
-    "GameBananaType": "Mod",
-    "TokenizedName": ["salvation"],
-    "UpdatedDate": 1777157906,
-    "SubcategoryId": 6801,
-    "SubcategoryName": "Standalone",
-    "GameBananaId": 672393,
-    "Featured": {
-      "Category": "week",
-      "Position": 1
-    },
-    "Text": "Submission for Music Translation Contest 4; the song used is Salvation by The Hellp<br><br>Madeline decides to climb Artemis, a run-down megastructure of almost entirely metal. It's the only thing she has left.<br><br>A 5-room adventure, with each room being a giant endurance test. Knowledge of most basic tech is required, along with ultras for Room 2. Difficulty is a bit above Expert.<br><br>Proof of verification: https://youtu.be/IBYRGoBECnE<br><br>",
-    "ModifiedDate": 1777165677,
-    "Name": "Salvation",
-    "PageURL": "https://gamebanana.com/mods/672393",
-    "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ed42f2d29a1.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ed4249a2b37.png"
-    ],
-    "CreatedDate": 1777157906,
-    "Author": "dcirollez",
-    "CategoryName": "Maps",
-    "Downloads": 36,
-    "Likes": 4,
-    "Files": [
-      {
-        "Description": "1.0.0.1 - Small nerf to Room 3",
-        "HasEverestYaml": true,
-        "Size": 5448762,
-        "CreatedDate": 1777165654,
-        "Downloads": 28,
-        "URL": "https://gamebanana.com/dl/1685921",
-        "Name": "salvation1001.zip"
-      },
-      {
-        "Description": "ARCHIVED - 1.0.0 - Old version",
-        "HasEverestYaml": true,
-        "Size": 5448947,
-        "CreatedDate": 1777156776,
-        "Downloads": 8,
-        "URL": "https://gamebanana.com/dl/1685813",
-        "Name": "salvation_748a2.zip"
-      }
-    ]
-  },
-  {
-    "CategoryId": 6800,
-    "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/69ecd83b00d1a.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ecd83b18555.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ecd83b1bae1.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69ecd83b1e286.jpg"
-    ],
-    "Description": "Think you're consistent at Theo gameplay? Check again!",
-    "Views": 180,
+    "Views": 110,
     "GameBananaType": "Mod",
     "TokenizedName": [
-      "theo",
-      "rooms",
-      "advanced"
+      "sorrow",
+      "melting",
+      "into",
+      "rain"
     ],
-    "UpdatedDate": 1777279520,
+    "UpdatedDate": 1778239029,
     "SubcategoryId": 6801,
     "SubcategoryName": "Standalone",
-    "GameBananaId": 672260,
+    "GameBananaId": 675533,
     "Featured": {
       "Category": "week",
       "Position": 2
     },
-    "Text": "An arcade-style map based around Theo gameplay<br>Try your luck at an infinite random sequence of 20 mini-rooms and see how far you can get!<br>Each mini-room ranges from red expert to yellow grandmaster<br>500 clears required for finishing the map, 1000 clears required for the berry",
-    "ModifiedDate": 1777279472,
-    "Name": "Theo Rooms Advanced",
-    "PageURL": "https://gamebanana.com/mods/672260",
+    "Text": "A mostly vanilla-styled map that mainly features red Booster, Dream Block and Swap Block. It contains a total of 12 gameplay rooms.<br><div class=\"SelectedElement\">Difficulty: <span class=\"RedColor\">Advanced<\/span> ~ <span class=\"RedColor\">Expert<\/span><\/div>Music used: 化冰曲 by 窦唯/朝简",
+    "ModifiedDate": 1778329074,
+    "Name": "Sorrow Melting Into Rain",
+    "PageURL": "https://gamebanana.com/mods/675533",
     "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ecd83b00d1a.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69ecd83b18555.png"
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69fdc55ae5978.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69fdc56318728.png"
     ],
-    "CreatedDate": 1777129827,
-    "Author": "AstralightSky",
+    "CreatedDate": 1778239029,
+    "Author": "BadwayBear",
     "CategoryName": "Maps",
-    "Downloads": 45,
-    "Likes": 3,
+    "Downloads": 31,
+    "Likes": 9,
     "Files": [
       {
-        "Description": "1.0.3 - no cheat trigger this time i promise",
+        "Description": "latest version",
         "HasEverestYaml": true,
-        "Size": 21893918,
-        "CreatedDate": 1777279419,
-        "Downloads": 2,
-        "URL": "https://gamebanana.com/dl/1687026",
-        "Name": "theoroomsadvanced_4fdda.zip"
+        "Size": 26533462,
+        "CreatedDate": 1778328954,
+        "Downloads": 0,
+        "URL": "https://gamebanana.com/dl/1697088",
+        "Name": "sorrowmeltingintorain_1b9c4.zip"
       },
       {
-        "Description": "ARCHIVED - 1.0.1",
+        "Description": "",
         "HasEverestYaml": true,
-        "Size": 21892819,
-        "CreatedDate": 1777222660,
-        "Downloads": 11,
-        "URL": "https://gamebanana.com/dl/1686437",
-        "Name": "theoroomsadvanced_3a4fe.zip"
-      },
-      {
-        "Description": "ARCHIVED - 1.0.2",
-        "HasEverestYaml": true,
-        "Size": 21892110,
-        "CreatedDate": 1777233734,
-        "Downloads": 9,
-        "URL": "https://gamebanana.com/dl/1686635",
-        "Name": "theoroomsadvanced_d4960.zip"
+        "Size": 26532282,
+        "CreatedDate": 1778238917,
+        "Downloads": 31,
+        "URL": "https://gamebanana.com/dl/1696142",
+        "Name": "sorrowmeltingintorain.zip"
       }
     ]
+  },
+  {
+    "CategoryId": 6800,
+    "Screenshots": [
+      "https://images.gamebanana.com/img/ss/mods/69dab873d2d99.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69dab8a941747.jpg"
+    ],
+    "Description": "A return to the peak you already reached long ago...",
+    "Views": 1401,
+    "GameBananaType": "Mod",
+    "TokenizedName": [
+      "beyond",
+      "the",
+      "summit"
+    ],
+    "UpdatedDate": 1775942978,
+    "SubcategoryId": 6803,
+    "SubcategoryName": "Collab/Contest",
+    "GameBananaId": 668694,
+    "Featured": {
+      "Category": "month",
+      "Position": 0
+    },
+    "Text": "This map shouldn't require any tech other than maybe climbjumps.<br><br>Make sure to leave photosensitive mode off if you are comfortable doing so.",
+    "ModifiedDate": 1775942978,
+    "Name": "Beyond The Summit",
+    "PageURL": "https://gamebanana.com/mods/668694",
+    "MirroredScreenshots": [
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69dab873d2d99.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69dab8a941747.png"
+    ],
+    "CreatedDate": 1775942978,
+    "Author": "hennyburgr",
+    "CategoryName": "Maps",
+    "Downloads": 732,
+    "Likes": 24,
+    "Files": [{
+      "Description": "1.0.0 - PLEASEDONTBREAKPLEASEDONTBREAK",
+      "HasEverestYaml": true,
+      "Size": 15320950,
+      "CreatedDate": 1775940998,
+      "Downloads": 732,
+      "URL": "https://gamebanana.com/dl/1674046",
+      "Name": "theloop.zip"
+    }]
+  },
+  {
+    "CategoryId": 6800,
+    "Screenshots": [
+      "https://images.gamebanana.com/img/ss/mods/69d8767952462.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4f32f0.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4f081d.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd479f14.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd5067b0.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd510916.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd51677b.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4d9e94.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd510fa0.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4dfac4.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd49242a.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd51ca35.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4e9bcb.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd551e18.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4ebdbe.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4f3004.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd510474.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd48d74d.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69d88dd4c9f08.jpg"
+    ],
+    "Description": "happy birthday aurora",
+    "Views": 2619,
+    "GameBananaType": "Mod",
+    "TokenizedName": [
+      "where",
+      "you",
+      "wish",
+      "you",
+      "were"
+    ],
+    "UpdatedDate": 1775901515,
+    "SubcategoryId": 6802,
+    "SubcategoryName": "Campaign",
+    "GameBananaId": 668014,
+    "Featured": {
+      "Category": "month",
+      "Position": 1
+    },
+    "Text": "HIIII EVERYONEEE <33<br><br>This is a map pack consisting of 8 maps of birthday beginner to cupcake intermediate! Full of silly weird nonsense, meaningful atmospheres, and pure artistic expression. I made this project for Aurorameow's birthday, and everything was made with the concept of \"how do I make a celeste mod for someone who doesn't like celeste?\" This ended up being the perfect way for me to break boundaries and truly pour everything I possibly had into this mod. Everything from a non-euclidean puzzle map, to a snail sanctuary, to entityful grocery shopping, all wrapped up in a strange and uniquely decorated world to explore that is teeming with life. Explore all the nooks and crannies of this map to find secrets, hidden challenges, and plenty of fluffy creatures to talk to!!<br><br>NEXT UP OF THINGS TO PUT IN THIS BOX: <span class=\"GreenColor\">I MADE AN ENTIRE ALBUM FOR THIS MOD!!!<\/span><br>A vast majority of this map pack's music was custom made by me to be the soundtrack!<br>This album is comprised of all of the best music I think I have ever made and it is an incredibly meaningful album to me. <br>The album is out now on <a href=\"https://youtu.be/kSeCwO12y4k\">youtube<\/a> and <a href=\"https://emeowvie.bandcamp.com/album/where-you-wish-you-were\">bandcamp<\/a>, and should be out on streaming platforms very soon!!<br>Go listen to the OST in your free time and enjoy!! (linked above and down at the bottom)<br><br>This project was absolute development heaven. I had such a fantastic time working on this and its such a special project to me. This is by far my biggest creative project ever, having spent around 300 hours making it, and an Unbelievable amount of brain power going into planning and executing everything. I'm so glad to be able to share this project with the celeste community, and I'm so glad it was fueled by being a birthday project for Aurora.<br><br><span class=\"GreenColor\">WELL, WHAT ARE YOU WAITING FOR GO PLAY IT!!!! GO BE WHERE YOU WILL KNOW YOU HAVE ALWAYS WANTED TO <33 ENJOYYY ^w^<\/span><br><br>Music:<br>Where You Wish You Were (full album) by emeowvie:<br>youtube - <a href=\"https://youtu.be/kSeCwO12y4k\" class=\"SelectedElement\">https://youtu.be/kSeCwO12y4k<\/a><br>bandcamp -<a href=\"https://emeowvie.bandcamp.com/album/where-you-wish-you-were\"> https://emeowvie.bandcamp.com/album/where-you-wish-you-were<\/a><br><br>Left Bank Two by The Noveltones - <a href=\"https://youtu.be/edzPVpRas68\" target=\"_blank\">https://youtu.be/edzPVpRas68<\/a><br>Tutorial by Calum Bowen - <a href=\"https://youtu.be/edzPVpRas68\" target=\"_blank\">https://youtu.be/edzPVpRas68<\/a><br>fin by CAPSULE - <a href=\"https://youtu.be/-GfQuSiUpgA\" target=\"_blank\">https://youtu.be/-GfQuSiUpgA<\/a>",
+    "ModifiedDate": 1776411575,
+    "Name": "Where You Wish You Were",
+    "PageURL": "https://gamebanana.com/mods/668014",
+    "MirroredScreenshots": [
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69d8767952462.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69d88dd4f32f0.png"
+    ],
+    "CreatedDate": 1775860284,
+    "Author": "emeowvie",
+    "CategoryName": "Maps",
+    "Downloads": 672,
+    "Likes": 23,
+    "Files": [{
+      "Description": "1.0.1 - current version",
+      "HasEverestYaml": true,
+      "Size": 123988167,
+      "CreatedDate": 1775900476,
+      "Downloads": 608,
+      "URL": "https://gamebanana.com/dl/1673517",
+      "Name": "whereyouwishyouwere_34773.zip"
+    }]
+  },
+  {
+    "CategoryId": 6800,
+    "Screenshots": [
+      "https://images.gamebanana.com/img/ss/mods/69dade490602e.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69dade58833d7.jpg"
+    ],
+    "Description": "It's Our Condition",
+    "Views": 1201,
+    "GameBananaType": "Mod",
+    "TokenizedName": [
+      "the",
+      "quartz",
+      "diamond"
+    ],
+    "UpdatedDate": 1775952056,
+    "SubcategoryId": 6801,
+    "SubcategoryName": "Standalone",
+    "GameBananaId": 668730,
+    "Featured": {
+      "Category": "month",
+      "Position": 2
+    },
+    "Text": "The Quartz Diamond<br><br>It's in Our Nature<br><br>",
+    "ModifiedDate": 1776045372,
+    "Name": "The Quartz Diamond",
+    "PageURL": "https://gamebanana.com/mods/668730",
+    "MirroredScreenshots": [
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69dade490602e.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69dade58833d7.png"
+    ],
+    "CreatedDate": 1775952056,
+    "Author": "TheQuartzDiamond",
+    "CategoryName": "Maps",
+    "Downloads": 308,
+    "Likes": 17,
+    "Files": [{
+      "Description": "v1.0.5 - TQD",
+      "HasEverestYaml": true,
+      "Size": 1072787527,
+      "CreatedDate": 1776044956,
+      "Downloads": 230,
+      "URL": "https://gamebanana.com/dl/1675559",
+      "Name": "thequartzdiamond_version_1_0_5.zip"
+    }]
   },
   {
     "CategoryId": 6800,
@@ -240,7 +336,7 @@
       "https://images.gamebanana.com/img/ss/mods/69cfed37af215.jpg"
     ],
     "Description": "Small plantlife blooming is a tiny victory",
-    "Views": 2805,
+    "Views": 4546,
     "GameBananaType": "Mod",
     "TokenizedName": ["sonder"],
     "UpdatedDate": 1775496567,
@@ -248,7 +344,7 @@
     "SubcategoryName": "Standalone",
     "GameBananaId": 666256,
     "Featured": {
-      "Category": "month",
+      "Category": "3month",
       "Position": 0
     },
     "Text": "An atmospheric 35 Room Advanced map! It's my longest solo yet.<br><br>Music:<br><a href=\"https://www.youtube.com/watch?v=hO2p_CVu4ps\">Disasterpeace - Mallow<\/a><br><a href=\"https://www.youtube.com/watch?v=Xy-zZzbYu-8\">Aethoro - Ghostflower<\/a><br><a href=\"https://www.youtube.com/watch?v=XIUcUtwINos\">LudoWic - THE QUINTESSENCE<\/a>",
@@ -262,14 +358,14 @@
     "CreatedDate": 1775234405,
     "Author": "Crispybag",
     "CategoryName": "Maps",
-    "Downloads": 953,
-    "Likes": 40,
+    "Downloads": 1282,
+    "Likes": 41,
     "Files": [{
       "Description": "1.0.3 - Final Version Surely",
       "HasEverestYaml": true,
       "Size": 11715316,
       "CreatedDate": 1775496429,
-      "Downloads": 792,
+      "Downloads": 1118,
       "URL": "https://gamebanana.com/dl/1669303",
       "Name": "sonder_0d559.zip"
     }]
@@ -284,7 +380,7 @@
       "https://images.gamebanana.com/img/ss/mods/69cfb63071de5.jpg"
     ],
     "Description": "Wow, it's the slipperiest...",
-    "Views": 2536,
+    "Views": 3866,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "slipperiest",
@@ -295,7 +391,7 @@
     "SubcategoryName": "Standalone",
     "GameBananaId": 666241,
     "Featured": {
-      "Category": "month",
+      "Category": "3month",
       "Position": 1
     },
     "Text": "Oh no! This is the slipperiest nook I've ever seen!<br><br>Slip and slide through the final delightfully dank cave in this&nbsp;<b>dashless/grabless beginner-advanced<\/b>&nbsp;map focused on very slippery slopes. Neutrals are not used anywhere in the map at all but are not disabled.<br><br><ul><li><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"GreenColor\"><span class=\"GreenColor\">Over 65 rooms of slippery <b>goo<\/b>dness<\/span><\/span><\/span><\/span><\/span><\/li><li><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"GreenColor\"><span class=\"GreenColor\">Plenty of delicious strawberries (wash before eating, some might have goo on them)<\/span><\/span><\/span><\/span><\/span><\/li><li><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"GreenColor\"><span class=\"GreenColor\">1 golden strawberry for those brave enough!<\/span><\/span><\/span><\/span><\/span><\/li><li class=\"SelectedElement\"><span class=\"RedColor\"><span class=\"RedColor\"><span class=\"GreenColor\">Other mysterious collectables...<\/span><\/span><\/span><\/li><\/ul><br>This is the <b>grand finale<\/b> of the slippery series. I would recommend playing the first two maps if you haven't already (they are quite short and easy!)<br><br><a href=\"https://gamebanana.com/mods/553598\">Slippery Nook<\/a><br><a href=\"https://gamebanana.com/mods/559352\">Slipperier Nook<\/a><br><br><span class=\"GreenColor\"><b>Can you conquer The Shrine of Comradery?<\/b><\/span><br><br>This map was made with a bunch of input from some of my friends and favourite creators, even some from outside the community hopped on! It was such a fun experience and I hope you have as much fun playing it as I did making it!<br><br>As always, huge thanks to those who made all of the tools that make this possible.<br><br>&lt;3<br><br>Music credits:<br><a href=\"https://gamebanana.com/linkfilter?url=https%3A%2F%2Fyoutu.be%2FQk7ORuKXjOc%3Fsi%3D4rr_hNSjfSxHPNvC&amp;follow=true\" target=\"_blank\">Rottytops' Theme (Remix) - Undercover Studios<\/a><br><span class=\"Spoiler\"><a href=\"https://www.youtube.com/watch?v=w1naI70E49E\" target=\"_blank\">Groove Window (feat. Jonathon Wilson) - Funky Times<\/a><br><a href=\"https://www.youtube.com/watch?v=1PBg8AG3O18\" target=\"_blank\">上にいきたくないデパート - Calmera<\/a><br><a href=\"https://www.youtube.com/watch?v=G2GEWk2YcZI\" target=\"_blank\">Small Bites - Acco<\/a><\/span><br><br>",
@@ -309,15 +405,15 @@
     "CreatedDate": 1775229472,
     "Author": "Spooooky",
     "CategoryName": "Maps",
-    "Downloads": 675,
-    "Likes": 33,
+    "Downloads": 976,
+    "Likes": 34,
     "Files": [
       {
         "Description": "1.0.3 - Minor leniency tweaks",
         "HasEverestYaml": true,
         "Size": 17854855,
         "CreatedDate": 1775386772,
-        "Downloads": 495,
+        "Downloads": 785,
         "URL": "https://gamebanana.com/dl/1668239",
         "Name": "slipperiestnookv103.zip"
       },
@@ -326,7 +422,7 @@
         "HasEverestYaml": true,
         "Size": 17838616,
         "CreatedDate": 1775327736,
-        "Downloads": 54,
+        "Downloads": 60,
         "URL": "https://gamebanana.com/dl/1667561",
         "Name": "slipperiestnookv102_498c9.zip"
       },
@@ -335,7 +431,7 @@
         "HasEverestYaml": true,
         "Size": 17838496,
         "CreatedDate": 1775281087,
-        "Downloads": 50,
+        "Downloads": 51,
         "URL": "https://gamebanana.com/dl/1667148",
         "Name": "slipperiestnookv101.zip"
       },
@@ -344,56 +440,11 @@
         "HasEverestYaml": true,
         "Size": 17841645,
         "CreatedDate": 1775229240,
-        "Downloads": 79,
+        "Downloads": 80,
         "URL": "https://gamebanana.com/dl/1666573",
         "Name": "slipperiestnook.zip"
       }
     ]
-  },
-  {
-    "CategoryId": 6800,
-    "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/69dab873d2d99.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69dab8a941747.jpg"
-    ],
-    "Description": "A return to the peak you already reached long ago...",
-    "Views": 1144,
-    "GameBananaType": "Mod",
-    "TokenizedName": [
-      "beyond",
-      "the",
-      "summit"
-    ],
-    "UpdatedDate": 1775942978,
-    "SubcategoryId": 6803,
-    "SubcategoryName": "Collab/Contest",
-    "GameBananaId": 668694,
-    "Featured": {
-      "Category": "month",
-      "Position": 2
-    },
-    "Text": "This map shouldn't require any tech other than maybe climbjumps.<br><br>Make sure to leave photosensitive mode off if you are comfortable doing so.",
-    "ModifiedDate": 1775942978,
-    "Name": "Beyond The Summit",
-    "PageURL": "https://gamebanana.com/mods/668694",
-    "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69dab873d2d99.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69dab8a941747.png"
-    ],
-    "CreatedDate": 1775942978,
-    "Author": "hennyburgr",
-    "CategoryName": "Maps",
-    "Downloads": 508,
-    "Likes": 23,
-    "Files": [{
-      "Description": "1.0.0 - PLEASEDONTBREAKPLEASEDONTBREAK",
-      "HasEverestYaml": true,
-      "Size": 15320950,
-      "CreatedDate": 1775940998,
-      "Downloads": 508,
-      "URL": "https://gamebanana.com/dl/1674046",
-      "Name": "theloop.zip"
-    }]
   },
   {
     "CategoryId": 6800,
@@ -403,7 +454,7 @@
       "https://images.gamebanana.com/img/ss/mods/69b6f6775a6f7.jpg"
     ],
     "Description": "A Road Trip Like Never Before!",
-    "Views": 3172,
+    "Views": 3459,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "road",
@@ -415,7 +466,7 @@
     "GameBananaId": 660429,
     "Featured": {
       "Category": "3month",
-      "Position": 0
+      "Position": 2
     },
     "Text": "Join <del>5<\/del> 4 buddies on an unforgettable journey across the world's greatest highway system to celebrate a very special boy! But be careful, hiccups and hijinks will give these bodacious buddies challenges that test and deepen their friendship to all new levels!<br><br><b>Road Trip!<\/b> is a map for Donker19's birthday! Since he is my best friend and helped put together an amazing birthday map for me this year, I felt like it's only fair to do the same for him! Road Trip! features some of my best work I've ever put into a Celeste map in every aspect, so I really hope you enjoy! I will refrain from giving any details on the map for the best playing experience but I will say the map requires a skill of at least <b>low expert<\/b>. Also, please refrain from playing the map if you're scared of <b>crispybag.<\/b><br><br>I will also add that the existence and overall polish of this map could not have happened without <b>tart<\/b> so a huge thanks for all the help and work they put into this project!<br><br>If you run into any issues with the map, please let me know.<br><br>And a big thanks to my girlfriend who will not see this for the amazing thumbnail art! If you are interested in commissioning art like this for your maps or projects, or even just for fun, please reach out to me and I can get you in contact with her.",
     "ModifiedDate": 1773625456,
@@ -428,148 +479,16 @@
     "CreatedDate": 1773598402,
     "Author": "PPNyan",
     "CategoryName": "Maps",
-    "Downloads": 754,
+    "Downloads": 821,
     "Likes": 32,
     "Files": [{
       "Description": "",
       "HasEverestYaml": true,
       "Size": 142920394,
       "CreatedDate": 1773601664,
-      "Downloads": 746,
+      "Downloads": 813,
       "URL": "https://gamebanana.com/dl/1648638",
       "Name": "roadtrip_dceb3.zip"
-    }]
-  },
-  {
-    "CategoryId": 6800,
-    "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/699975747b08e.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69997549f2c4c.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6999755399a2a.jpg",
-      "https://images.gamebanana.com/img/ss/mods/69997551816c8.jpg",
-      "https://images.gamebanana.com/img/ss/mods/699975556bcfa.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6999755340f29.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6999755144d11.jpg"
-    ],
-    "Description": "Happy Chinese New Year!",
-    "Views": 4247,
-    "GameBananaType": "Mod",
-    "TokenizedName": [
-      "forsaken",
-      "city",
-      "of",
-      "nian"
-    ],
-    "UpdatedDate": 1771774565,
-    "SubcategoryId": 6803,
-    "SubcategoryName": "Collab/Contest",
-    "GameBananaId": 654850,
-    "Featured": {
-      "Category": "3month",
-      "Position": 1
-    },
-    "Text": "寻觅\u201c年\u201d的城市<br>Forsaken City of Nian<br>This mod can theoretically be played by people who have just cleared Celeste, but for your best experience, you'd better to reach the Advanced level (You could beat Mango Mesa)<br>This mod has about 50 rooms and exciting boss battles. Please enjoy it to the fullest<br>Forsaken City of Nian is an eso2rica contest entry.<br><br>Happy Chinese new year!<br><br>ヾ(\u2022ω\u2022`)o",
-    "ModifiedDate": 1771774637,
-    "Name": "Forsaken City of Nian",
-    "PageURL": "https://gamebanana.com/mods/654850",
-    "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_699975747b08e.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69997549f2c4c.png"
-    ],
-    "CreatedDate": 1771665498,
-    "Author": "RikiUwU",
-    "CategoryName": "Maps",
-    "Downloads": 1189,
-    "Likes": 30,
-    "Files": [
-      {
-        "Description": "1.0.4",
-        "HasEverestYaml": true,
-        "Size": 62848751,
-        "CreatedDate": 1771774207,
-        "Downloads": 1000,
-        "URL": "https://gamebanana.com/dl/1631803",
-        "Name": "forsaken_city_of_nian_104.zip"
-      },
-      {
-        "Description": "ARCHIVED - 1.0.0",
-        "HasEverestYaml": true,
-        "Size": 62849816,
-        "CreatedDate": 1771665283,
-        "Downloads": 18,
-        "URL": "https://gamebanana.com/dl/1630736",
-        "Name": "forsaken_city_of_nian.zip"
-      },
-      {
-        "Description": "ARCHIVED - 1.0.1",
-        "HasEverestYaml": true,
-        "Size": 62847952,
-        "CreatedDate": 1771667260,
-        "Downloads": 53,
-        "URL": "https://gamebanana.com/dl/1630747",
-        "Name": "forsaken_city_of_nian_101.zip"
-      },
-      {
-        "Description": "ARCHIVED - 1.0.2",
-        "HasEverestYaml": true,
-        "Size": 62850550,
-        "CreatedDate": 1771685881,
-        "Downloads": 98,
-        "URL": "https://gamebanana.com/dl/1630897",
-        "Name": "forsaken_city_of_nian_102.zip"
-      },
-      {
-        "Description": "ARCHIVED - 1.0.3",
-        "HasEverestYaml": true,
-        "Size": 62848678,
-        "CreatedDate": 1771772138,
-        "Downloads": 20,
-        "URL": "https://gamebanana.com/dl/1631786",
-        "Name": "forsaken_city_of_nian_103.zip"
-      }
-    ]
-  },
-  {
-    "CategoryId": 6800,
-    "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/6991c27ad63cb.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6991076b6917f.jpg",
-      "https://images.gamebanana.com/img/ss/mods/699101177a12d.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6991c2e73830a.jpg"
-    ],
-    "Description": "a short & sweet map about cavediving!",
-    "Views": 1191,
-    "GameBananaType": "Mod",
-    "TokenizedName": ["cavediving"],
-    "UpdatedDate": 1771161424,
-    "SubcategoryId": 6801,
-    "SubcategoryName": "Standalone",
-    "GameBananaId": 653320,
-    "Featured": {
-      "Category": "3month",
-      "Position": 2
-    },
-    "Text": "<h3 class=\"SelectedElement\">a short & sweet map about cavediving!<\/h3>explore the depths of a dark cave.. navigate through tricky, narrow pathways lit by colorful crystals!<br><br>- no tech required! <br>- difficulty: advanced (challenging, a little harder than 7C and farewell)<br>- c-side length<br><br>inspired by d1d7's '2k-3' and 'Crystal Hollows'<br><br><hr><br><span class=\"Spoiler\">death to perfectionism<\/span>",
-    "ModifiedDate": 1772409167,
-    "Name": "Cavediving",
-    "PageURL": "https://gamebanana.com/mods/653320",
-    "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_6991c27ad63cb.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_6991076b6917f.png"
-    ],
-    "CreatedDate": 1771161424,
-    "Author": "mai bunshine",
-    "CategoryName": "Maps",
-    "Downloads": 431,
-    "Likes": 26,
-    "Files": [{
-      "Description": "v1.0.0",
-      "HasEverestYaml": true,
-      "Size": 8616648,
-      "CreatedDate": 1771160924,
-      "Downloads": 430,
-      "URL": "https://gamebanana.com/dl/1626109",
-      "Name": "cavediving_eb5f3.zip"
     }]
   },
   {
@@ -580,7 +499,7 @@
       "https://images.gamebanana.com/img/ss/mods/69315113d47bc.jpg"
     ],
     "Description": "",
-    "Views": 38874,
+    "Views": 40655,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "crossover",
@@ -605,15 +524,15 @@
     "CreatedDate": 1764957576,
     "Author": "CrossoverCollab",
     "CategoryName": "Maps",
-    "Downloads": 83567,
-    "Likes": 98,
+    "Downloads": 85022,
+    "Likes": 99,
     "Files": [
       {
         "Description": "1.1.3",
         "HasEverestYaml": true,
         "Size": 107159586,
         "CreatedDate": 1770307899,
-        "Downloads": 9499,
+        "Downloads": 10265,
         "URL": "https://gamebanana.com/dl/1617908",
         "Name": "crossovercollab-113.zip"
       },
@@ -622,7 +541,7 @@
         "HasEverestYaml": true,
         "Size": 497387960,
         "CreatedDate": 1768057810,
-        "Downloads": 12113,
+        "Downloads": 12794,
         "URL": "https://gamebanana.com/dl/1599638",
         "Name": "crossovercollabaudio-110.zip"
       },
@@ -631,7 +550,7 @@
         "HasEverestYaml": true,
         "Size": 108175985,
         "CreatedDate": 1768413547,
-        "Downloads": 1987,
+        "Downloads": 1991,
         "URL": "https://gamebanana.com/dl/1602481",
         "Name": "crossovercollab-110.zip"
       },
@@ -640,7 +559,7 @@
         "HasEverestYaml": true,
         "Size": 107437515,
         "CreatedDate": 1765642810,
-        "Downloads": 5704,
+        "Downloads": 5705,
         "URL": "https://gamebanana.com/dl/1579808",
         "Name": "crossovercollab-107.zip"
       },
@@ -649,7 +568,7 @@
         "HasEverestYaml": true,
         "Size": 107406430,
         "CreatedDate": 1765147663,
-        "Downloads": 4580,
+        "Downloads": 4581,
         "URL": "https://gamebanana.com/dl/1576522",
         "Name": "crossovercollab-104_38d21.zip"
       },
@@ -675,7 +594,7 @@
       "https://images.gamebanana.com/img/ss/mods/694e681398358.jpg"
     ],
     "Description": "Someone sang in a forest once, and now everything is weird",
-    "Views": 7204,
+    "Views": 7649,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "songkeepers",
@@ -700,14 +619,14 @@
     "CreatedDate": 1766775990,
     "Author": "ricky06",
     "CategoryName": "Maps",
-    "Downloads": 2457,
+    "Downloads": 2539,
     "Likes": 53,
     "Files": [{
       "Description": "",
       "HasEverestYaml": true,
       "Size": 19228857,
       "CreatedDate": 1768980775,
-      "Downloads": 1332,
+      "Downloads": 1414,
       "URL": "https://gamebanana.com/dl/1607057",
       "Name": "songkeepergrove_a7357.zip"
     }]
@@ -722,7 +641,7 @@
       "https://images.gamebanana.com/img/ss/mods/69540fa0de7ef.jpg"
     ],
     "Description": "Get 143 berries in this easy open world map!",
-    "Views": 7917,
+    "Views": 8012,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "berry",
@@ -747,15 +666,15 @@
     "CreatedDate": 1767113898,
     "Author": "bryse0n",
     "CategoryName": "Maps",
-    "Downloads": 2879,
-    "Likes": 30,
+    "Downloads": 2937,
+    "Likes": 31,
     "Files": [
       {
         "Description": "1.0.5",
         "HasEverestYaml": true,
         "Size": 68249683,
         "CreatedDate": 1770155639,
-        "Downloads": 1010,
+        "Downloads": 1067,
         "URL": "https://gamebanana.com/dl/1616815",
         "Name": "berry143_7e6d9.zip"
       },
@@ -764,7 +683,7 @@
         "HasEverestYaml": true,
         "Size": 66875478,
         "CreatedDate": 1768222932,
-        "Downloads": 845,
+        "Downloads": 846,
         "URL": "https://gamebanana.com/dl/1601120",
         "Name": "berry143_64954.zip"
       },
@@ -807,51 +726,6 @@
     ]
   },
   {
-    "CategoryId": 6800,
-    "Screenshots": [
-      "https://images.gamebanana.com/img/ss/mods/6817b84341770.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6817b83dafa11.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6817b83db4ae4.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6817b83da826a.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6817b83db3206.jpg",
-      "https://images.gamebanana.com/img/ss/mods/6817b83db38d7.jpg"
-    ],
-    "Description": "You and me, in our playhouse...",
-    "Views": 12865,
-    "GameBananaType": "Mod",
-    "TokenizedName": ["bernadette"],
-    "UpdatedDate": 1746511632,
-    "SubcategoryId": 6803,
-    "SubcategoryName": "Collab/Contest",
-    "GameBananaId": 592461,
-    "Featured": {
-      "Category": "year",
-      "Position": 0
-    },
-    "Text": "Hello it is I once again<br>This map is based on the song \"Bernadette\" by IAMX. Honestly I don't usually listen to songs of this genre but for some reason this one always left a deep impression on me. So I made a map around it! I hope it is fun and actually playable, I kind of did an any% mapping speedrun for this in about 2 weeks to meet the MTC3 deadline lol<br><br>Features:<br>- 12ish rooms of Int-Low Advanced gameplay<br>- Cycles, Move Blocks, and One Funny Twist™<br>- Flag Triggers Galore<br>- Bernadette<br>- You Are My Liberty<br>- Uhhhhh<br><br><a href=\"https://www.youtube.com/watch?v=It8F3qlfKqg\">Link to the music here<br><\/a><br>For any feedback/bug reports, feel free to message @ricky06 on Discord!",
-    "ModifiedDate": 1746511513,
-    "Name": "Bernadette",
-    "PageURL": "https://gamebanana.com/mods/592461",
-    "MirroredScreenshots": [
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_6817b84341770.png",
-      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_6817b83dafa11.png"
-    ],
-    "CreatedDate": 1746385274,
-    "Author": "ricky06",
-    "CategoryName": "Maps",
-    "Downloads": 2208,
-    "Likes": 58,
-    "Files": [{
-      "Description": "",
-      "HasEverestYaml": true,
-      "Size": 22134950,
-      "CreatedDate": 1746511464,
-      "Downloads": 2086,
-      "URL": "https://gamebanana.com/dl/1434329",
-      "Name": "ricky06_bernadette_295ec.zip"
-    }]
-  },
-  {
     "CategoryId": 11181,
     "Screenshots": [
       "https://images.gamebanana.com/img/ss/mods/686c65e08d228.jpg",
@@ -865,7 +739,7 @@
       "https://images.gamebanana.com/img/ss/mods/686c65fe9c177.jpg"
     ],
     "Description": "Now You're Playing With Power!",
-    "Views": 16636,
+    "Views": 17027,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "super",
@@ -879,7 +753,7 @@
     "GameBananaId": 605563,
     "Featured": {
       "Category": "year",
-      "Position": 1
+      "Position": 0
     },
     "Text": "A skin mod that aims to replace <b>Madeline <\/b>with <span class=\"RedColor\"><b>Mario <\/b><\/span>from the <b>Super Mario Franchise<\/b>!<br><br>Making use of <a href=\"https://gamebanana.com/mods/473796\">Skin Mod Helper Plus<\/a>, this mod contains:<br><ul><li><span class=\"GreenColor\">A reskin of Madeline\u2019s player animations<\/span> with <b>Mario<\/b>!<\/li><li><span class=\"GreenColor\">A toggeable texture pack<\/span> that replaces <b>Strawberries<\/b> with <b>Power Stars<\/b>!<\/li><li><span class=\"GreenColor\">Additional Sprite Replacements<\/span> for <b>Badeline<\/b>, extra moves &amp; More!!<\/li><\/ul><img src=\"https://files.catbox.moe/q6pngp.png\" width=\"60%\"><br>Make sure to turn on the extra texture packs by going to General Skins in the Mod Settings!!<br><br><img src=\"https://i.imgur.com/uMfrhK7.png\" class=\"SelectedElement\"><br><br>This was a little passion project I spent about 2-3 weeks on since I've wanted a Mario over Madeline replacement for ages, I hopefully plan to update it more in the future to include some sprites for cutscenes and additional mods but I hope you like what I have currently : ]<br><br>Thanks for checking out the mod!! Enjoy ^^<br><i>~ Ash<\/i><br>",
     "ModifiedDate": 1759868403,
@@ -892,14 +766,14 @@
     "CreatedDate": 1751935234,
     "Author": "ashmosphere",
     "CategoryName": "Skins",
-    "Downloads": 5264,
+    "Downloads": 5427,
     "Likes": 57,
     "Files": [{
       "Description": "",
       "HasEverestYaml": true,
       "Size": 3321277,
       "CreatedDate": 1751997315,
-      "Downloads": 5187,
+      "Downloads": 5353,
       "URL": "https://gamebanana.com/dl/1473860",
       "Name": "mariomadeline_e3608.zip"
     }]
@@ -912,7 +786,7 @@
       "https://images.gamebanana.com/img/ss/mods/68b85472acaab.jpg"
     ],
     "Description": "surprise! (late) birthday map",
-    "Views": 6681,
+    "Views": 6898,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "amber",
@@ -925,7 +799,7 @@
     "GameBananaId": 617905,
     "Featured": {
       "Category": "year",
-      "Position": 2
+      "Position": 1
     },
     "Text": "short comfy beginner map featuring ~<span class=\"GreenColor\">9 main rooms<\/span>, <span class=\"GreenColor SelectedElement\">2 berries<\/span>, and a semi-but-not-really-unique <span class=\"GreenColor\">custom mechanic<\/span>, intended to be for <span class=\"GreenColor\">aon's birthday<\/span> (but very late because     oops im super slow at mapping apparently weh)<br><br>(i spent probably way too much time on thiss and i'm not sure how well this succeeds at being a \"birthday map\" in terms of being designed around the stuff u like  etc      it's very much in my current comfort zone / style so i could feel like i trusted myself to even have a chance of finishing Anything at all, but past those doubts i'm still quite happy with how this map turned out i thinkk. hopefully it's enjoyable enough :peaceline:)",
     "ModifiedDate": 1769010568,
@@ -938,17 +812,120 @@
     "CreatedDate": 1756913629,
     "Author": "limimimia",
     "CategoryName": "Maps",
-    "Downloads": 1471,
+    "Downloads": 1502,
     "Likes": 50,
     "Files": [{
       "Description": "1.0.0",
       "HasEverestYaml": true,
       "Size": 19086307,
       "CreatedDate": 1756912562,
-      "Downloads": 1471,
+      "Downloads": 1502,
       "URL": "https://gamebanana.com/dl/1510809",
       "Name": "amberleafbluffs_final_v1.zip"
     }]
+  },
+  {
+    "CategoryId": 6800,
+    "Screenshots": [
+      "https://images.gamebanana.com/img/ss/mods/69072e593c01e.jpg",
+      "https://images.gamebanana.com/img/ss/mods/68781c86bb2f1.jpg",
+      "https://images.gamebanana.com/img/ss/mods/68781c91d37fc.jpg",
+      "https://images.gamebanana.com/img/ss/mods/69072e46e8df6.jpg"
+    ],
+    "Description": "Traverse the world with a unique entity!",
+    "Views": 9172,
+    "GameBananaType": "Mod",
+    "TokenizedName": [
+      "dark",
+      "matter",
+      "journey"
+    ],
+    "UpdatedDate": 1762124039,
+    "SubcategoryId": 6802,
+    "SubcategoryName": "Campaign",
+    "GameBananaId": 607396,
+    "Featured": {
+      "Category": "year",
+      "Position": 2
+    },
+    "Text": "FINAL CHAPTER OUT NOW!<br><br>Explore a huge magma cave with a familiar friend's help! There are actually around 12 main rooms in this one!<br><br>Chapter 3 credits: lezaH for playtesting and more MiiTopia music (Map: Karkaton and Battle: Karkaton), recommended by Stymph once again! :D<br><br>Enjoy the culmination of my vision!<br><br>Old Description:<br>Welcome to the first 2 maps of a 3-map campaign centered arounf Dark(er) Matter! The maps are around intermediate to advanced difficulty and have about 10 rooms each and a load of berries to collect! <br><br>The playtesters are credited at the side and the music comes from Miitopia (Map: Greenhorne and Map: The Skyscraper)<br><br>More Credits: Respective creators of Aiden Helper, Communal Helper, Contort Helper, Crystalline, DJ Map Helper, Extended Variant Mode, FemotHelper, Flaglines and Such, Frost Helper, Gravity Helper, Jungle Helper, Maddie's Helping Hand, More Lock Blocks, Outback Helpers, Sorbet Helper, Spooooky's Asset Pack, VivHelper, Vortex Helper, aon Helper, bits & bolts",
+    "ModifiedDate": 1762124269,
+    "Name": "Dark Matter Journey",
+    "PageURL": "https://gamebanana.com/mods/607396",
+    "MirroredScreenshots": [
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_69072e593c01e.png",
+      "https://celestemodupdater.0x0a.de/banana-mirror-images/img_ss_mods_68781c86bb2f1.png"
+    ],
+    "CreatedDate": 1752702509,
+    "Author": "HexaliaCach9095",
+    "CategoryName": "Maps",
+    "Downloads": 2456,
+    "Likes": 41,
+    "Files": [
+      {
+        "Description": "v1.1.4",
+        "HasEverestYaml": true,
+        "Size": 14895593,
+        "CreatedDate": 1762123990,
+        "Downloads": 1798,
+        "URL": "https://gamebanana.com/dl/1553498",
+        "Name": "darkmatterjourneyz14.zip"
+      },
+      {
+        "Description": "v1.1.3",
+        "HasEverestYaml": true,
+        "Size": 14896140,
+        "CreatedDate": 1762116962,
+        "Downloads": 25,
+        "URL": "https://gamebanana.com/dl/1553373",
+        "Name": "darkmatterjourneyz13.zip"
+      },
+      {
+        "Description": "ARCHIVED - v1.0.1",
+        "HasEverestYaml": true,
+        "Size": 6750797,
+        "CreatedDate": 1753090004,
+        "Downloads": 248,
+        "URL": "https://gamebanana.com/dl/1481380",
+        "Name": "darkmatterjourney_2a7f1.zip"
+      },
+      {
+        "Description": "ARCHIVED - v1.0.0",
+        "HasEverestYaml": true,
+        "Size": 6748838,
+        "CreatedDate": 1752702149,
+        "Downloads": 309,
+        "URL": "https://gamebanana.com/dl/1478640",
+        "Name": "darkmatterjourney_1050a.zip"
+      },
+      {
+        "Description": "ARCHIVED - v1.1.2",
+        "HasEverestYaml": true,
+        "Size": 14894398,
+        "CreatedDate": 1762082218,
+        "Downloads": 50,
+        "URL": "https://gamebanana.com/dl/1553107",
+        "Name": "darkmatterjourneyz12.zip"
+      },
+      {
+        "Description": "ARCHIVED - v1.1.1",
+        "HasEverestYaml": true,
+        "Size": 14895837,
+        "CreatedDate": 1762080927,
+        "Downloads": 11,
+        "URL": "https://gamebanana.com/dl/1553101",
+        "Name": "darkmatterjourneyz11.zip"
+      },
+      {
+        "Description": "ARCHIVED - v1.1.0",
+        "HasEverestYaml": true,
+        "Size": 14895437,
+        "CreatedDate": 1762078958,
+        "Downloads": 15,
+        "URL": "https://gamebanana.com/dl/1553089",
+        "Name": "darkmatterjourneyz.zip"
+      }
+    ]
   },
   {
     "CategoryId": 6800,
@@ -961,7 +938,7 @@
       "https://images.gamebanana.com/img/ss/mods/63e16597a0ec5.jpg"
     ],
     "Description": "A collaboration involving 350+ people to commemorate Celeste",
-    "Views": 435816,
+    "Views": 437884,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "strawberry",
@@ -987,15 +964,15 @@
     "CreatedDate": 1676617638,
     "Author": "Strawberry Jam Collab Team",
     "CategoryName": "Maps",
-    "Downloads": 1630299,
-    "Likes": 400,
+    "Downloads": 1640904,
+    "Likes": 401,
     "Files": [
       {
         "Description": "Map Pack",
         "HasEverestYaml": true,
         "Size": 95650820,
         "CreatedDate": 1743704036,
-        "Downloads": 120320,
+        "Downloads": 122988,
         "URL": "https://gamebanana.com/dl/1414214",
         "Name": "strawberryjammappack_v1012.zip"
       },
@@ -1004,7 +981,7 @@
         "HasEverestYaml": true,
         "Size": 91062907,
         "CreatedDate": 1677301990,
-        "Downloads": 247512,
+        "Downloads": 249510,
         "URL": "https://gamebanana.com/dl/941090",
         "Name": "strawberryjamassets_v101.zip"
       },
@@ -1013,7 +990,7 @@
         "HasEverestYaml": true,
         "Size": 318011755,
         "CreatedDate": 1695524389,
-        "Downloads": 226472,
+        "Downloads": 228472,
         "URL": "https://gamebanana.com/dl/1060720",
         "Name": "strawberryjamaudioa_v104_66276.zip"
       },
@@ -1022,7 +999,7 @@
         "HasEverestYaml": true,
         "Size": 318382262,
         "CreatedDate": 1676616089,
-        "Downloads": 260563,
+        "Downloads": 262505,
         "URL": "https://gamebanana.com/dl/937262",
         "Name": "strawberryjamaudiob_v100.zip"
       },
@@ -1031,7 +1008,7 @@
         "HasEverestYaml": true,
         "Size": 317738998,
         "CreatedDate": 1695524392,
-        "Downloads": 219627,
+        "Downloads": 221583,
         "URL": "https://gamebanana.com/dl/1060721",
         "Name": "strawberryjamaudioc_v101_3f26b.zip"
       },
@@ -1040,7 +1017,7 @@
         "HasEverestYaml": true,
         "Size": 92466810,
         "CreatedDate": 1725833634,
-        "Downloads": 79203,
+        "Downloads": 79250,
         "URL": "https://gamebanana.com/dl/1276362",
         "Name": "strawberryjammappack_v1011.zip"
       }
@@ -1053,7 +1030,7 @@
       "https://images.gamebanana.com/img/ss/mods/5f46e9ee53c9b.jpg"
     ],
     "Description": "A collaboration involving 100+ people to commemorate Celeste",
-    "Views": 720781,
+    "Views": 722127,
     "GameBananaType": "Mod",
     "TokenizedName": [
       "the",
@@ -1063,7 +1040,7 @@
       "community",
       "collab"
     ],
-    "UpdatedDate": 1725474453,
+    "UpdatedDate": 1777722374,
     "SubcategoryId": 6803,
     "SubcategoryName": "Collab/Contest",
     "GameBananaId": 150813,
@@ -1071,8 +1048,8 @@
       "Category": "alltime",
       "Position": 1
     },
-    "Text": "<span class=\"GreenColor\"><b>The 2020 Celeste Spring Collab is a project that has been in the making for over 8 months with 100+ people involved. <\/b>After waiting patiently for so long, we're proud to present you the final product!<br><\/span><hr><h2><u>The Spring Collab Has:<\/u><\/h2><ul><li><b>5<\/b> Chapters Each with a Different Level of Difficulty<\/li><li><b>80+<\/b> Maps<\/li><li><b>300+<\/b> Rooms<\/li><li><b>1500+<\/b> Hours of Playtesting<\/li><li><b>175+<\/b> Strawberries<\/li><li><b>40+<\/b> New Music Tracks <\/li><li>Dozens of New Custom Mechanics<\/li><li>Many, <i>Many<\/i> New Sprites<\/li><li>Built-in Speedrun Times<\/li><\/ul><br>The Spring Collab has 5 lobbies for you to explore, loaded with maps made by the community. The difficulty of the maps spans from early Vanilla content to some of the hardest Celeste maps that exist, providing enjoyable content for everyone.<br><br>Once a Map is beaten, <b>Silver Berries<\/b> and <b>Speed Berries<\/b> will spawn in its first room. Silver Berries will require you to reach the end of the map to be collected, while Speed Berries will time how fast you get through the map, and then give you a ranking! (To unlock all berries at the start, unlock Cheat Mode in the vanilla Prologue chapter.)<br><br>Thank you everyone who participated in the development of this project, and thank you everyone for playing the collab!<br><br><i>Because of how the lobbies were developed, using the Debug Tools or any unintended mod functionality or debug commands may break the lobbies.<br><br>The <b>Spring Collab 2020 Audio<\/b> file is a required dependency for the mod, and it also goes in the Mods folder like any other dependency. The Everest auto downloader will do this for you.<\/i><br><hr>The collab soundtrack is streamable on all major streaming platforms. The Majority of proceeds from OST sales go to benefit Trans Lifeline. You can buy the album <a href=\"https://celestespringcollab.bandcamp.com/\" target=\"_blank\">here<\/a>. The remainder of the proceeds will go to support the creator of Everest (The program that made this all possible).<br><br>If you'd like to make a donation directly, use the donation button or <a href=\"https://translifeline.org/donate/\" target=\"_blank\">this link<\/a>.<br><br>iamdadbod is in the process of making playthrough videos for every single map in this pack. The playlist of all releases can be found by clicking <a href=\"https://www.youtube.com/playlist?list=PLBP5_qAilzbhPvlJnA7KP09KjC5U3K82Y\" target=\"_blank\">this link<\/a> or just going to <a href=\"//youtube.com/c/iamdadbod\">iamdadbod's channel<\/a>. There are also playlists for each difficulty chapter. <a href=\"https://docs.google.com/spreadsheets/d/1HwWr1eHkUrdNY7slmh_q_JS7AiD1CUWLcTm0VfwlNSc/edit?usp=sharing\" target=\"_blank\">This link<\/a> has a list of all available videos with additional information including direct links to specific videos. New videos are being released daily so check back often!<br><br><hr><br>This mod includes <span class=\"GreenColor\"><b>Randomizer support<\/b><\/span>: by installing Spring Collab and <a href=\"https://gamebanana.com/tools/6848\">the Randomizer mod<\/a>, you will be able to play randomized maps including rooms from the collab. <a href=\"https://github.com/bigkahuna443/sc2020-randomizer\" target=\"_blank\">More information and credits here.<\/a><br>For issues or suggestions about the randomizer config, reach out to Bigkahuna#0491 on Discord or ping him in the #randomizer channel on the <a href=\"https://discord.gg/celeste\" target=\"_blank\">Celeste Discord<\/a>. Please include randomizer version, seed, and settings in any bug reports.",
-    "ModifiedDate": 1725474424,
+    "Text": "<span class=\"GreenColor\"><b>The 2020 Celeste Spring Collab is a project that has been in the making for over 8 months with 100+ people involved. <\/b>After waiting patiently for so long, we're proud to present you the final product!<br><\/span><hr><h2><u>The Spring Collab Has:<\/u><\/h2><ul><li><b>5<\/b>&nbsp;Chapters Each with a Different Level of Difficulty<\/li><li><b>80+<\/b> Maps<\/li><li><b>300+<\/b> Rooms<\/li><li><b>1500+<\/b> Hours of Playtesting<\/li><li><b>175+<\/b> Strawberries<\/li><li><b>40+<\/b>&nbsp;New Music Tracks&nbsp;<\/li><li>Dozens of New Custom Mechanics<\/li><li>Many, <i>Many<\/i>&nbsp;New Sprites<\/li><li>Built-in Speedrun Times<\/li><\/ul><br>The Spring Collab has 5 lobbies for you to explore, loaded with maps made by the community. The difficulty of the maps spans from early Vanilla content to some of the hardest Celeste maps that exist, providing enjoyable content for everyone.<br><br>Once a Map is beaten, <b>Silver Berries<\/b>&nbsp;and <b>Speed Berries<\/b>&nbsp;will spawn in its first room. Silver Berries will require you to reach the end of the map to be collected, while Speed Berries will time how fast you get through the map, and then give you a ranking! (To unlock all berries at the start, unlock Cheat Mode in the vanilla Prologue chapter.)<br><br>Thank you everyone who participated in the development of this project, and thank you everyone for playing the collab!<br><br><i>Because of how the lobbies were developed, using the Debug Tools or any unintended mod functionality or debug commands may break the lobbies.<br><br>The&nbsp;<b>Spring Collab 2020 Audio<\/b>&nbsp;file is a required dependency for the mod, and it also goes in the Mods folder like any other dependency. The Everest auto downloader will do this for you.<\/i><br><hr>The collab soundtrack is streamable on all major streaming platforms. The Majority of proceeds from OST sales go to benefit Trans Lifeline. You can buy the album <a href=\"https://celestespringcollab.bandcamp.com/\" target=\"_blank\">here<\/a>.&nbsp;The remainder of the proceeds will go to support the creator of Everest (The program that made this all possible).<br><br>If you'd like to make a donation directly, use the donation button or <a href=\"https://translifeline.org/donate/\" target=\"_blank\">this link<\/a>.<br><br>iamdadbod is in the process of making playthrough videos for every single map in this pack. The playlist of all releases can be found by clicking <a href=\"https://www.youtube.com/playlist?list=PLBP5_qAilzbhPvlJnA7KP09KjC5U3K82Y\" target=\"_blank\">this link<\/a>&nbsp;or just going to <a href=\"//youtube.com/c/iamdadbod\">iamdadbod's channel<\/a>. There are also playlists for each difficulty chapter. <a href=\"https://docs.google.com/spreadsheets/d/1HwWr1eHkUrdNY7slmh_q_JS7AiD1CUWLcTm0VfwlNSc/edit?usp=sharing\" target=\"_blank\">This link<\/a>&nbsp;has a list of all available videos with additional information including direct links to specific videos. New videos are being released daily so check back often!<br><br><hr><br>This mod includes <span class=\"GreenColor\"><b>Randomizer support<\/b><\/span>: by installing Spring Collab and <a href=\"https://gamebanana.com/tools/6848\">the Randomizer mod<\/a>, you will be able to play randomized maps including rooms from the collab. <a href=\"https://github.com/bigkahuna443/sc2020-randomizer\" target=\"_blank\">More information and credits here.<\/a><br>For issues or suggestions about the randomizer config, reach out to Bigkahuna#0491 on Discord or ping him in the #randomizer channel on the <a href=\"https://discord.gg/celeste\" target=\"_blank\">Celeste Discord<\/a>. Please include randomizer version, seed, and settings in any bug reports.",
+    "ModifiedDate": 1777722322,
     "Name": "The 2020 Celeste Spring Community Collab",
     "PageURL": "https://gamebanana.com/mods/150813",
     "MirroredScreenshots": [
@@ -1082,24 +1059,24 @@
     "CreatedDate": 1599670994,
     "Author": "Spring Collab 2020 Team",
     "CategoryName": "Maps",
-    "Downloads": 320802,
+    "Downloads": 323980,
     "Likes": 258,
     "Files": [
       {
-        "Description": "v1.7.9",
+        "Description": "v1.7.10",
         "HasEverestYaml": true,
-        "Size": 56291358,
-        "CreatedDate": 1725474405,
-        "Downloads": 48611,
-        "URL": "https://gamebanana.com/dl/1273559",
-        "Name": "springcollab2020_63108.zip"
+        "Size": 56313473,
+        "CreatedDate": 1777722265,
+        "Downloads": 2445,
+        "URL": "https://gamebanana.com/dl/1691049",
+        "Name": "springcollab2020.zip"
       },
       {
         "Description": "Audio v1.0.0",
         "HasEverestYaml": true,
         "Size": 513411848,
         "CreatedDate": 1599575103,
-        "Downloads": 113158,
+        "Downloads": 113647,
         "URL": "https://gamebanana.com/dl/484937",
         "Name": "springcollab2020audio_135a4.zip"
       },
@@ -1108,7 +1085,7 @@
         "HasEverestYaml": true,
         "Size": 159602,
         "CreatedDate": 1616693898,
-        "Downloads": 2259,
+        "Downloads": 2264,
         "URL": "https://gamebanana.com/dl/539975",
         "Name": "springcollab2020oldgmhs_ee692.zip"
       }
@@ -1118,7 +1095,7 @@
     "CategoryId": 6800,
     "Screenshots": ["https://images.gamebanana.com/img/ss/mods/60e5d6e408360.jpg"],
     "Description": "Maddie goes on a journey through the mind & memories of one that are not her own.",
-    "Views": 400216,
+    "Views": 401434,
     "GameBananaType": "Mod",
     "TokenizedName": ["glyph"],
     "UpdatedDate": 1722299987,
@@ -1137,15 +1114,15 @@
     "CreatedDate": 1588357721,
     "Author": "marshall h",
     "CategoryName": "Maps",
-    "Downloads": 68954,
-    "Likes": 229,
+    "Downloads": 69314,
+    "Likes": 230,
     "Files": [
       {
         "Description": "v2.3.3",
         "HasEverestYaml": true,
         "Size": 29213443,
         "CreatedDate": 1722301354,
-        "Downloads": 29104,
+        "Downloads": 29453,
         "URL": "https://gamebanana.com/dl/1247390",
         "Name": "glyph_3a47c.zip"
       },
@@ -1154,7 +1131,7 @@
         "HasEverestYaml": true,
         "Size": 29179347,
         "CreatedDate": 1638481866,
-        "Downloads": 34977,
+        "Downloads": 34984,
         "URL": "https://gamebanana.com/dl/703925",
         "Name": "glyph_d2f43.zip"
       },
@@ -1163,7 +1140,7 @@
         "HasEverestYaml": true,
         "Size": 23273323,
         "CreatedDate": 1629786878,
-        "Downloads": 814,
+        "Downloads": 818,
         "URL": "https://gamebanana.com/dl/643617",
         "Name": "glyph_d8867.zip"
       }
