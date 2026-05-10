@@ -8217,7 +8217,7 @@ ScugHelper:
   Dependencies:
   - Name: EverestCore
     Version: 1.5935.0
-  URL: https://gamebanana.com/mmdl/1696058
+  URL: https://gamebanana.com/mmdl/1697882
 1112223312Claustrophobia:
   OptionalDependencies: []
   Dependencies:
@@ -22954,6 +22954,16 @@ Keeping Watch:
   - Name: IsaGrabBag
     Version: 1.7.3
   URL: https://gamebanana.com/mmdl/1633155
+Ziping time:
+  OptionalDependencies: []
+  Dependencies:
+  - Name: Everest
+    Version: 1.6249.0
+  - Name: SorbetHelper
+    Version: 1.8.2
+  - Name: AdventureHelper
+    Version: 1.6.0
+  URL: https://gamebanana.com/mmdl/1698050
 Toxic bridge:
   OptionalDependencies: []
   Dependencies:
@@ -35685,7 +35695,7 @@ Cog:
   Dependencies:
   - Name: Everest
     Version: 1.5752.0
-  URL: https://gamebanana.com/mmdl/1540242
+  URL: https://gamebanana.com/mmdl/1698141
 Tara:
   OptionalDependencies: []
   Dependencies:
@@ -58639,7 +58649,7 @@ thecaverns:
 UnderDragon's Tilesets Subsitory:
   OptionalDependencies: []
   Dependencies: []
-  URL: https://gamebanana.com/mmdl/1602190
+  URL: https://gamebanana.com/mmdl/1698178
 Makima_Skinmod_adiar:
   OptionalDependencies: []
   Dependencies:
@@ -97927,7 +97937,7 @@ WhereMoonlightFalls:
     Version: 1.0.78
   - Name: DJMapHelper
     Version: 1.13.4
-  URL: https://gamebanana.com/mmdl/1697123
+  URL: https://gamebanana.com/mmdl/1697976
 mason-locked-away:
   OptionalDependencies: []
   Dependencies:
